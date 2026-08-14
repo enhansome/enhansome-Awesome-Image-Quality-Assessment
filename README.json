@@ -227,7 +227,7 @@
             "last_commit": "2026-02-14T09:14:15Z",
             "owner": "xuanyuzhang21",
             "repo": "RALI",
-            "stars": 40
+            "stars": 39
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2025-10-29T13:40:51Z",
             "owner": "zai-org",
             "repo": "ImageReward",
-            "stars": 1702
+            "stars": 1703
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-07-08T10:48:34Z",
             "owner": "chaofengc",
             "repo": "IQA-PyTorch",
-            "stars": 3364
+            "stars": 3363
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2023-10-27T18:37:30Z",
             "owner": "IceClear",
             "repo": "CLIP-IQA",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:47:08.619Z",
+    "last_updated": "2026-08-14T19:39:23.342Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
