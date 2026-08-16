@@ -421,7 +421,7 @@
             "last_commit": "2026-03-10T03:15:30Z",
             "owner": "PKU-ICST-MIPL",
             "repo": "Venus_CVPR2026",
-            "stars": 149
+            "stars": 148
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-07-08T10:48:34Z",
             "owner": "chaofengc",
             "repo": "IQA-PyTorch",
-            "stars": 3364
+            "stars": 3366
           }
         },
         {
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:09:03.978Z",
+    "last_updated": "2026-08-16T19:09:08.083Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
