@@ -106,7 +106,7 @@
                 "last_commit": "2024-08-12T14:19:49Z",
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
-                "stars": 287
+                "stars": 285
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2025-10-29T13:40:51Z",
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1703
+                "stars": 1702
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2024-12-21T19:53:15Z",
                 "owner": "yuvalkirstain",
                 "repo": "PickScore",
-                "stars": 603
+                "stars": 604
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2024-08-12T14:19:49Z",
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
-                "stars": 287
+                "stars": 285
               }
             },
             {
@@ -435,7 +435,7 @@
                 "last_commit": "2026-02-25T10:15:05Z",
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 218
+                "stars": 219
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2026-03-10T03:15:30Z",
                 "owner": "PKU-ICST-MIPL",
                 "repo": "Venus_CVPR2026",
-                "stars": 149
+                "stars": 150
               }
             },
             {
@@ -547,7 +547,7 @@
                 "last_commit": "2026-07-08T10:48:34Z",
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3372
+                "stars": 3374
               }
             },
             {
@@ -592,7 +592,7 @@
                 "last_commit": "2026-06-18T05:10:10Z",
                 "owner": "miccunifi",
                 "repo": "ARNIQA",
-                "stars": 156
+                "stars": 155
               }
             },
             {
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:20:04.609Z",
+    "last_updated": "2026-08-21T19:15:35.562Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_id": 432720250,
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
