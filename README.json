@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-20T11:02:35Z",
                 "owner": "RobinY99",
                 "repo": "MR-IQA",
-                "stars": 2
+                "stars": 3
               }
             },
             {
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:15:35.562Z",
+    "last_updated": "2026-08-22T19:10:07.704Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_id": 432720250,
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
