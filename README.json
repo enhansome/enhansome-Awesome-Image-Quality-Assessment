@@ -547,7 +547,7 @@
                 "last_commit": "2026-07-08T10:48:34Z",
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3374
+                "stars": 3375
               }
             },
             {
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:10:07.704Z",
+    "last_updated": "2026-08-23T19:10:20.722Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_id": 432720250,
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
