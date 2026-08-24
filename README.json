@@ -1,6 +1,72 @@
 {
   "items": [
     {
+      "description": "Related Resources:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Evaluation of Visual Generation",
+          "description": ". A curated list of resources for evaluation of visual generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 772958371,
+            "language": null,
+            "last_commit": "2026-08-21T17:35:19Z",
+            "owner": "ziqihuangg",
+            "repo": "Awesome-Evaluation-of-Visual-Generation",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Image Aesthetic Assessment and Cropping",
+          "description": ". A curated list of resources including papers, datasets, and relevant links to aesthetic evaluation and cropping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274623521,
+            "language": null,
+            "last_commit": "2024-07-11T10:15:12Z",
+            "owner": "bcmi",
+            "repo": "Awesome-Aesthetic-Evaluation-and-Cropping",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Quality Assessment Benchmark",
+          "description": ". Benchmark datasets and evaluation code for IQA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224152373,
+            "language": null,
+            "last_commit": "2024-07-10T16:16:47Z",
+            "owner": "weizhou-geek",
+            "repo": "Image-Quality-Assessment-Benchmark",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recent Image Quality Related Papers",
+          "description": ". A collection of recent papers related to image quality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290907195,
+            "language": null,
+            "last_commit": "2024-02-19T03:03:02Z",
+            "owner": "weizhou-geek",
+            "repo": "Recent-Image-Quality-Related-Papers",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -241,7 +307,7 @@
                 "last_commit": "2026-02-14T09:14:15Z",
                 "owner": "xuanyuzhang21",
                 "repo": "RALI",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -759,6 +825,351 @@
                 "repo": "TTA-IQA",
                 "stars": 3
               }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "MANIQA NR CVPRW2022 Official Transformer, multi-dimension attention, dual branch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480789242,
+                "language": "Python",
+                "last_commit": "2023-06-10T10:38:21Z",
+                "owner": "IIGROUP",
+                "repo": "MANIQA",
+                "stars": 431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "TReS NR WACV2022 Official Transformer, relative ranking, self-consistency",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394028829,
+                "language": "Python",
+                "last_commit": "2023-02-17T03:34:51Z",
+                "owner": "isalirezag",
+                "repo": "TReS",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "KonIQ++ NR BMVC2021 Official Multi-task with distortion prediction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 419549710,
+                "language": "Python",
+                "last_commit": "2024-11-29T14:15:34Z",
+                "owner": "SSL92",
+                "repo": "koniqplusplus",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "MUSIQ NR ICCV2021 Official / Pytorch Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-21T19:58:51Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38611
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "CKDN NR ICCV2021 Official Degraded reference, Conditional knowledge distillation (related to HIQA)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394225149,
+                "language": "Python",
+                "last_commit": "2022-04-09T06:48:29Z",
+                "owner": "researchmm",
+                "repo": "CKDN",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "HyperIQA NR CVPR2020 Official Content-aware hyper network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245560005,
+                "language": "Python",
+                "last_commit": "2023-12-14T09:29:58Z",
+                "owner": "SSL92",
+                "repo": "hyperIQA",
+                "stars": 434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "Meta-IQA NR CVPR2020 Official Meta-learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269943832,
+                "language": "Python",
+                "last_commit": "2020-10-11T02:26:13Z",
+                "owner": "zhuhancheng",
+                "repo": "MetaIQA",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "GIQA NR ECCV2020 Official Generated image",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271158579,
+                "language": "Python",
+                "last_commit": "2021-11-20T07:11:48Z",
+                "owner": "cientgu",
+                "repo": "GIQA",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "PI NR 2018 PIRM Challenge Project 1/2 * (NIQE + (10 - NRQM)).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130463627,
+                "language": "MATLAB",
+                "last_commit": "2020-08-26T18:01:37Z",
+                "owner": "roimehrez",
+                "repo": "PIRM2018",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "RankIQA NR ICCV2017 Github Pretrain on synthetically ranked data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98201534,
+                "language": "MATLAB",
+                "last_commit": "2019-02-19T14:26:08Z",
+                "owner": "xialeiliu",
+                "repo": "RankIQA",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "CNNIQA NR CVPR2014 PyTorch First CNN-based NR-IQA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130167207,
+                "language": "Python",
+                "last_commit": "2022-11-22T04:48:28Z",
+                "owner": "lidq92",
+                "repo": "CNNIQA",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "UNIQUE NR TIP2021 Github Combine synthetic and authentic image pairs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265136808,
+                "language": "Python",
+                "last_commit": "2024-03-08T13:42:03Z",
+                "owner": "zwx8981",
+                "repo": "UNIQUE",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "DBCNN NR TCSVT2020 Official Two branches for synthetic and authentic distortions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166771453,
+                "language": "Python",
+                "last_commit": "2022-03-19T14:50:35Z",
+                "owner": "zwx8981",
+                "repo": "DBCNN-PyTorch",
+                "stars": 230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "SFA NR TMM2019 Official Aggregate ResNet50 features of multiple cropped patches",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119025388,
+                "language": "MATLAB",
+                "last_commit": "2023-10-03T21:38:26Z",
+                "owner": "lidq92",
+                "repo": "SFA",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "/arXiv PQR NR/Aesthetic TIP2019 Official1/Official2 Unify different type of aesthetic labels",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124345983,
+                "language": "MATLAB",
+                "last_commit": "2019-09-18T12:51:23Z",
+                "owner": "HuiZeng",
+                "repo": "Unified_IAA",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "WaDIQaM (deepIQA) NR/FR TIP2018 PyTorch Weighted average of patch qualities, shared FR/NR models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130065918,
+                "language": "Python",
+                "last_commit": "2023-03-24T21:54:32Z",
+                "owner": "lidq92",
+                "repo": "WaDIQaM",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "NIMA NR TIP2018 PyTorch/Tensorflow Squared EMD loss",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121835729,
+                "language": "Python",
+                "last_commit": "2021-11-10T11:36:17Z",
+                "owner": "yunxiaoshi",
+                "repo": "Neural-IMage-Assessment",
+                "stars": 585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "FRIQUEE NR JoV2017 Official Authentically Distorted, Bag of Features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330295771,
+                "language": "MATLAB",
+                "last_commit": "2021-01-17T02:01:48Z",
+                "owner": "utlive",
+                "repo": "FRIQUEE",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "BRISQUE NR TIP2012 Official Traditional",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330295643,
+                "language": "MATLAB",
+                "last_commit": "2021-12-02T01:02:39Z",
+                "owner": "utlive",
+                "repo": "BRISQUE",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "BLIINDS-II NR TIP2012 Official",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330295632,
+                "language": "MATLAB",
+                "last_commit": "2021-01-17T02:00:30Z",
+                "owner": "utlive",
+                "repo": "BLIINDS2",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "CORNIA NR CVPR2012 Matlab download Codebook Representation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112996957,
+                "language": "MATLAB",
+                "last_commit": "2019-04-08T06:16:19Z",
+                "owner": "HuiZeng",
+                "repo": "BIQA_Toolbox",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "NIQE NR SPL2012 Official Traditional",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330295959,
+                "language": "MATLAB",
+                "last_commit": "2021-10-26T02:37:09Z",
+                "owner": "utlive",
+                "repo": "niqe",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "DIIVINE NR TIP2011 Official",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330295755,
+                "language": "MATLAB",
+                "last_commit": "2021-05-24T11:58:46Z",
+                "owner": "utlive",
+                "repo": "DIIVINE",
+                "stars": 10
+              }
             }
           ],
           "description": null,
@@ -796,6 +1207,111 @@
                 "repo": "SRIF",
                 "stars": 14
               }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "AHIQ FR CVPR2022 NTIRE workshop Official Attention, Transformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482758292,
+                "language": "Python",
+                "last_commit": "2022-07-17T03:53:08Z",
+                "owner": "IIGROUP",
+                "repo": "AHIQ",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "JSPL FR CVPR2022 Official semi-supervised and positive-unlabeled (PU) learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473700157,
+                "language": null,
+                "last_commit": "2022-03-24T17:06:34Z",
+                "owner": "happycaoyue",
+                "repo": "JSPL",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "CVRKD NAR AAAI2022 Official Non-Aligned content reference, knowledge distillation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435713391,
+                "language": "Python",
+                "last_commit": "2022-05-05T02:44:21Z",
+                "owner": "guanghaoyin",
+                "repo": "CVRKD-IQA",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "IQT FR CVPRW2021 PyTorch Transformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 419550846,
+                "language": "Python",
+                "last_commit": "2021-10-21T02:41:02Z",
+                "owner": "anse3832",
+                "repo": "IQT",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "A-DISTS FR ACMM2021 Official",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387637634,
+                "language": "Python",
+                "last_commit": "2024-03-07T05:33:51Z",
+                "owner": "dingkeyan93",
+                "repo": "A-DISTS",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "DISTS FR TPAMI2021 Official",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255875665,
+                "language": "Python",
+                "last_commit": "2020-05-22T15:11:21Z",
+                "owner": "dingkeyan93",
+                "repo": "DISTS",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "WaDIQaM NR/FR TIP2018 Official",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130065918,
+                "language": "Python",
+                "last_commit": "2023-03-24T21:54:32Z",
+                "owner": "lidq92",
+                "repo": "WaDIQaM",
+                "stars": 133
+              }
             }
           ],
           "description": null,
@@ -804,6 +1320,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Image Intrinsoc Scale Assessment: Bridging the Gap Between Quality and Resolution",
+                  "description": ", Hosu et al. Bibtex | Github",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1012948404,
+                    "language": "Python",
+                    "last_commit": "2025-08-16T18:50:30Z",
+                    "owner": "SonyResearch",
+                    "repo": "IISA",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": "Aims to predict the Image Intrinsic Scale, i.e. the scale at which an image shows the best quality",
+              "node_type": "group",
+              "title": "Image Intrinsic Scale Assessment (IISA)"
+            },
             {
               "children": [
                 {
@@ -845,6 +1383,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Assessor360: Multi-sequence Network for Blind Omnidirectional Image Quality Assessment",
+                  "description": ", Wu et al. Bibtex | Github",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 650474888,
+                    "language": "Python",
+                    "last_commit": "2023-10-11T07:58:37Z",
+                    "owner": "TianheWu",
+                    "repo": "Assessor360",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "360° Image (Omnidirectional Image) IQA"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ESIQA: Perceptual Quality Assessment of Vision-Pro-based Egocentric Spatial Images",
+                  "description": ", Zhu et al. Bibtex | Github",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 835591114,
+                    "language": null,
+                    "last_commit": "2025-08-07T02:40:46Z",
+                    "owner": "IntMeGroup",
+                    "repo": "ESIQA",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Egocentric Spatial Images (Apple Vision Pro)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics",
                   "description": ", Gushchin et al. Bibtex | Github | Project",
                   "children": [],
@@ -877,6 +1459,28 @@
               "description": null,
               "node_type": "group",
               "title": "Adversarial Attack on IQA"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "arXiv",
+                  "description": "NiNLoss ACMM2020 Official Norm-in-Norm Loss",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 284060958,
+                    "language": "Python",
+                    "last_commit": "2023-10-03T21:59:44Z",
+                    "owner": "lidq92",
+                    "repo": "LinearityIQA",
+                    "stars": 99
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IQA Losses"
             }
           ],
           "description": null,
@@ -885,10 +1489,83 @@
         }
       ],
       "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "PaQ-2-PiQ NR CVPR2020 Official github 40k, 120k patches 4M",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237024974,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-02T15:02:10Z",
+                "owner": "baidut",
+                "repo": "PaQ-2-PiQ",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVF",
+              "description": "SPAQ NR CVPR2020 Offical github 11k (smartphone)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214942825,
+                "language": "Python",
+                "last_commit": "2024-01-17T07:55:44Z",
+                "owner": "h4nwei",
+                "repo": "SPAQ",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "AADB NR/Aesthentic ECCV2016 Official github 10k images (8500/500/1000), 11 attributes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60445908,
+                "language": "MATLAB",
+                "last_commit": "2024-12-12T13:39:22Z",
+                "owner": "aimerykong",
+                "repo": "deepImageAestheticsAnalysis",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "AVA NR / Aesthentic CVPR2012 Github/Project 250k (60 categories)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73590649,
+                "language": null,
+                "last_commit": "2024-02-14T21:07:34Z",
+                "owner": "imfing",
+                "repo": "ava_downloader",
+                "stars": 452
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IQA datasets"
+        }
+      ],
+      "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:10:20.722Z",
+    "last_updated": "2026-08-24T14:11:42.724Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_id": 432720250,
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
