@@ -30,7 +30,7 @@
             "last_commit": "2024-07-11T10:15:12Z",
             "owner": "bcmi",
             "repo": "Awesome-Aesthetic-Evaluation-and-Cropping",
-            "stars": 412
+            "stars": 413
           }
         },
         {
@@ -613,7 +613,7 @@
                 "last_commit": "2026-07-08T10:48:34Z",
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3375
+                "stars": 3376
               }
             },
             {
@@ -658,7 +658,7 @@
                 "last_commit": "2026-06-18T05:10:10Z",
                 "owner": "miccunifi",
                 "repo": "ARNIQA",
-                "stars": 155
+                "stars": 156
               }
             },
             {
@@ -880,10 +880,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:24.647Z",
+    "last_updated": "2026-08-25T19:19:02.882Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_id": 432720250,
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
