@@ -828,8 +828,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "MANIQA NR CVPRW2022 Official Transformer, multi-dimension attention, dual branch",
+              "title": "IIGROUP/MANIQA",
+              "description": "MANIQA NR CVPRW2022 Transformer, multi-dimension attention, dual branch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -843,8 +843,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "TReS NR WACV2022 Official Transformer, relative ranking, self-consistency",
+              "title": "isalirezag/TReS",
+              "description": "TReS NR WACV2022 Transformer, relative ranking, self-consistency",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -873,8 +873,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "MUSIQ NR ICCV2021 Official / Pytorch Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing",
+              "title": "google-research/google-research",
+              "description": "/ Pytorch MUSIQ NR ICCV2021 Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -883,13 +883,13 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "CKDN NR ICCV2021 Official Degraded reference, Conditional knowledge distillation (related to HIQA)",
+              "title": "researchmm/CKDN",
+              "description": "CKDN NR ICCV2021 Degraded reference, Conditional knowledge distillation (related to HIQA)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -918,8 +918,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "Meta-IQA NR CVPR2020 Official Meta-learning",
+              "title": "zhuhancheng/MetaIQA",
+              "description": "Meta-IQA NR CVPR2020 Meta-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -933,8 +933,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "GIQA NR ECCV2020 Official Generated image",
+              "title": "cientgu/GIQA",
+              "description": "GIQA NR ECCV2020 Generated image",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -948,8 +948,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "PI NR 2018 PIRM Challenge Project 1/2 * (NIQE + (10 - NRQM)).",
+              "title": "roimehrez/PIRM2018",
+              "description": "PI NR 2018 PIRM Challenge 1/2 * (NIQE + (10 - NRQM)).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -963,8 +963,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "RankIQA NR ICCV2017 Github Pretrain on synthetically ranked data",
+              "title": "xialeiliu/RankIQA",
+              "description": "RankIQA NR ICCV2017 Pretrain on synthetically ranked data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,8 +993,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "UNIQUE NR TIP2021 Github Combine synthetic and authentic image pairs",
+              "title": "zwx8981/UNIQUE",
+              "description": "UNIQUE NR TIP2021 Combine synthetic and authentic image pairs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1008,8 +1008,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "DBCNN NR TCSVT2020 Official Two branches for synthetic and authentic distortions",
+              "title": "zwx8981/DBCNN-PyTorch",
+              "description": "DBCNN NR TCSVT2020 Two branches for synthetic and authentic distortions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1053,8 +1053,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "WaDIQaM (deepIQA) NR/FR TIP2018 PyTorch Weighted average of patch qualities, shared FR/NR models",
+              "title": "PyTorch",
+              "description": "WaDIQaM (deepIQA) NR/FR TIP2018 Weighted average of patch qualities, shared FR/NR models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1083,8 +1083,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "FRIQUEE NR JoV2017 Official Authentically Distorted, Bag of Features",
+              "title": "utlive/FRIQUEE",
+              "description": "FRIQUEE NR JoV2017 Authentically Distorted, Bag of Features",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1210,8 +1210,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "AHIQ FR CVPR2022 NTIRE workshop Official Attention, Transformer",
+              "title": "IIGROUP/AHIQ",
+              "description": "AHIQ FR CVPR2022 NTIRE workshop Attention, Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1225,8 +1225,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "JSPL FR CVPR2022 Official semi-supervised and positive-unlabeled (PU) learning",
+              "title": "happycaoyue/JSPL",
+              "description": "JSPL FR CVPR2022 semi-supervised and positive-unlabeled (PU) learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1240,8 +1240,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "CVRKD NAR AAAI2022 Official Non-Aligned content reference, knowledge distillation",
+              "title": "guanghaoyin/CVRKD-IQA",
+              "description": "CVRKD NAR AAAI2022 Non-Aligned content reference, knowledge distillation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1255,8 +1255,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "IQT FR CVPRW2021 PyTorch Transformer",
+              "title": "PyTorch",
+              "description": "IQT FR CVPRW2021 Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1270,8 +1270,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "A-DISTS FR ACMM2021 Official",
+              "title": "dingkeyan93/A-DISTS",
+              "description": "A-DISTS FR ACMM2021",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1285,8 +1285,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "DISTS FR TPAMI2021 Official",
+              "title": "dingkeyan93/DISTS",
+              "description": "DISTS FR TPAMI2021",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1300,8 +1300,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "WaDIQaM NR/FR TIP2018 Official",
+              "title": "lidq92/WaDIQaM",
+              "description": "WaDIQaM NR/FR TIP2018",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1464,8 +1464,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "arXiv",
-                  "description": "NiNLoss ACMM2020 Official Norm-in-Norm Loss",
+                  "title": "lidq92/LinearityIQA",
+                  "description": "NiNLoss ACMM2020 Norm-in-Norm Loss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1497,8 +1497,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "PaQ-2-PiQ NR CVPR2020 Official github 40k, 120k patches 4M",
+              "title": "Official github",
+              "description": "PaQ-2-PiQ NR CVPR2020 40k, 120k patches 4M",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1527,8 +1527,8 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
-              "description": "AADB NR/Aesthentic ECCV2016 Official github 10k images (8500/500/1000), 11 attributes",
+              "title": "Official github",
+              "description": "AADB NR/Aesthentic ECCV2016 10k images (8500/500/1000), 11 attributes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:18:25.944Z",
+    "last_updated": "2026-08-25T06:03:24.647Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_id": 432720250,
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
