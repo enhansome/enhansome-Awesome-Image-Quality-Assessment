@@ -232,7 +232,7 @@
                 "last_commit": "2025-10-15T17:00:56Z",
                 "owner": "TianheWu",
                 "repo": "VisualQuality-R1",
-                "stars": 199
+                "stars": 201
               }
             },
             {
@@ -613,7 +613,7 @@
                 "last_commit": "2026-07-08T10:48:34Z",
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3376
+                "stars": 3380
               }
             },
             {
@@ -838,7 +838,7 @@
                 "last_commit": "2023-06-10T10:38:21Z",
                 "owner": "IIGROUP",
                 "repo": "MANIQA",
-                "stars": 431
+                "stars": 432
               }
             },
             {
@@ -883,7 +883,7 @@
                 "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38618
+                "stars": 38624
               }
             },
             {
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:19:02.882Z",
+    "last_updated": "2026-08-26T21:16:52.440Z",
     "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
     "original_repository_id": 432720250,
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
