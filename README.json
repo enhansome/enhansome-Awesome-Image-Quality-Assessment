@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:35:19Z",
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 462
+            "stars": 463
           }
         },
         {
@@ -733,7 +733,7 @@
                 "last_commit": "2026-06-03T09:12:28Z",
                 "owner": "sxfly99",
                 "repo": "FGResQ",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -880,10 +880,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             },
             {
@@ -1295,7 +1295,7 @@
                 "last_commit": "2020-05-22T15:11:21Z",
                 "owner": "dingkeyan93",
                 "repo": "DISTS",
-                "stars": 488
+                "stars": 489
               }
             },
             {
@@ -1565,9 +1565,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:16:52.440Z",
-    "original_repository": "chaofengc/Awesome-Image-Quality-Assessment",
-    "original_repository_id": 432720250,
+    "last_updated": "2026-08-27T11:22:43.343Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 432720250,
+      "language": "TeX",
+      "last_commit": "2026-08-02T10:48:23Z",
+      "owner": "chaofengc",
+      "repo": "Awesome-Image-Quality-Assessment",
+      "stars": 1539
+    },
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
     "enhanced_repository_description": null,
