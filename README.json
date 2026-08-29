@@ -16,7 +16,8 @@
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
             "stars": 463
-          }
+          },
+          "first_seen": "2026-08-29T01:55:40.215Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "bcmi",
             "repo": "Awesome-Aesthetic-Evaluation-and-Cropping",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-29T01:55:40.215Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "weizhou-geek",
             "repo": "Image-Quality-Assessment-Benchmark",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-29T01:55:40.215Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "weizhou-geek",
             "repo": "Recent-Image-Quality-Related-Papers",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-29T01:55:40.215Z"
         }
       ],
       "title": "Overview"
@@ -84,7 +88,8 @@
                 "owner": "chencn2020",
                 "repo": "SEAGULL",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "Q-Future",
                 "repo": "Q-Ground",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "ugurcogalan06",
                 "repo": "Enhanced-IQM",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             }
           ],
           "description": "Quality assessment with spatial context and local structures",
@@ -136,7 +143,8 @@
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "TianheWu",
                 "repo": "MLLMs-for-IQA",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             }
           ],
           "description": "All IQA types unified in a single model",
@@ -173,7 +182,8 @@
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "Q-Future",
                 "repo": "Q-Instruct",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "XPixelGroup",
                 "repo": "DepictQA",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "XPixelGroup",
                 "repo": "DepictQA",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "TianheWu",
                 "repo": "VisualQuality-R1",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "lwq20020127",
                 "repo": "Q-Insight",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -263,7 +278,8 @@
                 "owner": "Q-Future",
                 "repo": "Co-Instruct",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -278,7 +294,8 @@
                 "owner": "AMAP-ML",
                 "repo": "RealQA",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "aba122",
                 "repo": "Q-Hawkeye",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "xuanyuzhang21",
                 "repo": "RALI",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "AISmartPerception",
                 "repo": "distortion-graphs",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "RobinY99",
                 "repo": "MR-IQA",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "clh124",
                 "repo": "QualiRAG",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             }
           ],
           "description": "Human readable IQA, mostly with large language models",
@@ -375,7 +397,8 @@
                 "owner": "zai-org",
                 "repo": "ImageReward",
                 "stars": 1702
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "yuvalkirstain",
                 "repo": "PickScore",
                 "stars": 604
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "tgxs002",
                 "repo": "align_sd",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "Yushi-Hu",
                 "repo": "tifa",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "google-research-datasets",
                 "repo": "richhf-18k",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -465,7 +493,8 @@
                 "owner": "lcysyzxdxc",
                 "repo": "AGIQA-3k-Database",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             }
           ],
           "description": null,
@@ -487,7 +516,8 @@
                 "owner": "yipoh",
                 "repo": "AesBench",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -502,7 +532,8 @@
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -517,7 +548,8 @@
                 "owner": "PKU-ICST-MIPL",
                 "repo": "Venus_CVPR2026",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -532,7 +564,8 @@
                 "owner": "yipoh",
                 "repo": "AesExpert",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -547,7 +580,8 @@
                 "owner": "Dreemurr-T",
                 "repo": "BAID",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -562,7 +596,8 @@
                 "owner": "FBehrad",
                 "repo": "Charm",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -577,7 +612,8 @@
                 "owner": "Henglin-Liu",
                 "repo": "ArtQuant",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -592,7 +628,8 @@
                 "owner": "michaelliyunhao",
                 "repo": "VideoAesBench",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             }
           ],
           "description": null,
@@ -613,8 +650,9 @@
                 "last_commit": "2026-07-08T10:48:34Z",
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3380
-              }
+                "stars": 3381
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -629,7 +667,8 @@
                 "owner": "IceClear",
                 "repo": "CLIP-IQA",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -644,7 +683,8 @@
                 "owner": "zwx8981",
                 "repo": "LIQE",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -659,7 +699,8 @@
                 "owner": "miccunifi",
                 "repo": "ARNIQA",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -674,7 +715,8 @@
                 "owner": "miccunifi",
                 "repo": "QualiCLIP",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -689,7 +731,8 @@
                 "owner": "avinabsaha",
                 "repo": "ReIQA",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -704,7 +747,8 @@
                 "owner": "zwx8981",
                 "repo": "BIQA_CL",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -719,7 +763,8 @@
                 "owner": "geekyutao",
                 "repo": "GraphIQA",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -734,7 +779,8 @@
                 "owner": "sxfly99",
                 "repo": "FGResQ",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -749,7 +795,8 @@
                 "owner": "narthchin",
                 "repo": "DEIQT",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -764,7 +811,8 @@
                 "owner": "nhshin-mcl",
                 "repo": "QCN",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -779,7 +827,8 @@
                 "owner": "NUIST-Videocoding",
                 "repo": "VCRNet",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -794,7 +843,8 @@
                 "owner": "Baoliang93",
                 "repo": "FPR",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -809,7 +859,8 @@
                 "owner": "wzhsysu",
                 "repo": "troubleshooting_BIQA",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -824,7 +875,8 @@
                 "owner": "Shankhanil006",
                 "repo": "TTA-IQA",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -839,7 +891,8 @@
                 "owner": "IIGROUP",
                 "repo": "MANIQA",
                 "stars": 432
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -854,7 +907,8 @@
                 "owner": "isalirezag",
                 "repo": "TReS",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -869,7 +923,8 @@
                 "owner": "SSL92",
                 "repo": "koniqplusplus",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -883,8 +938,9 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38634
-              }
+                "stars": 38642
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -899,7 +955,8 @@
                 "owner": "researchmm",
                 "repo": "CKDN",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -914,7 +971,8 @@
                 "owner": "SSL92",
                 "repo": "hyperIQA",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -929,7 +987,8 @@
                 "owner": "zhuhancheng",
                 "repo": "MetaIQA",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -944,7 +1003,8 @@
                 "owner": "cientgu",
                 "repo": "GIQA",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1019,8 @@
                 "owner": "roimehrez",
                 "repo": "PIRM2018",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1035,8 @@
                 "owner": "xialeiliu",
                 "repo": "RankIQA",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1051,8 @@
                 "owner": "lidq92",
                 "repo": "CNNIQA",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1004,7 +1067,8 @@
                 "owner": "zwx8981",
                 "repo": "UNIQUE",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1019,7 +1083,8 @@
                 "owner": "zwx8981",
                 "repo": "DBCNN-PyTorch",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1034,7 +1099,8 @@
                 "owner": "lidq92",
                 "repo": "SFA",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1049,7 +1115,8 @@
                 "owner": "HuiZeng",
                 "repo": "Unified_IAA",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1064,7 +1131,8 @@
                 "owner": "lidq92",
                 "repo": "WaDIQaM",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1079,7 +1147,8 @@
                 "owner": "yunxiaoshi",
                 "repo": "Neural-IMage-Assessment",
                 "stars": 585
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1094,7 +1163,8 @@
                 "owner": "utlive",
                 "repo": "FRIQUEE",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1109,7 +1179,8 @@
                 "owner": "utlive",
                 "repo": "BRISQUE",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1124,7 +1195,8 @@
                 "owner": "utlive",
                 "repo": "BLIINDS2",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1139,7 +1211,8 @@
                 "owner": "HuiZeng",
                 "repo": "BIQA_Toolbox",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1154,7 +1227,8 @@
                 "owner": "utlive",
                 "repo": "niqe",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1169,7 +1243,8 @@
                 "owner": "utlive",
                 "repo": "DIIVINE",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             }
           ],
           "description": null,
@@ -1191,7 +1266,8 @@
                 "owner": "abhijay9",
                 "repo": "ShiftTolerant-LPIPS",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1206,7 +1282,8 @@
                 "owner": "weizhou-geek",
                 "repo": "SRIF",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1221,7 +1298,8 @@
                 "owner": "IIGROUP",
                 "repo": "AHIQ",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1236,7 +1314,8 @@
                 "owner": "happycaoyue",
                 "repo": "JSPL",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1251,7 +1330,8 @@
                 "owner": "guanghaoyin",
                 "repo": "CVRKD-IQA",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1266,7 +1346,8 @@
                 "owner": "anse3832",
                 "repo": "IQT",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1281,7 +1362,8 @@
                 "owner": "dingkeyan93",
                 "repo": "A-DISTS",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1296,7 +1378,8 @@
                 "owner": "dingkeyan93",
                 "repo": "DISTS",
                 "stars": 489
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1311,7 +1394,8 @@
                 "owner": "lidq92",
                 "repo": "WaDIQaM",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             }
           ],
           "description": null,
@@ -1335,7 +1419,8 @@
                     "owner": "SonyResearch",
                     "repo": "IISA",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:55:40.215Z"
                 }
               ],
               "description": "Aims to predict the Image Intrinsic Scale, i.e. the scale at which an image shows the best quality",
@@ -1357,7 +1442,8 @@
                     "owner": "real-hjq",
                     "repo": "MS-SWD",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:55:40.215Z"
                 },
                 {
                   "node_type": "item",
@@ -1372,7 +1458,8 @@
                     "owner": "haoychen3",
                     "repo": "CD-Flow",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:55:40.215Z"
                 }
               ],
               "description": null,
@@ -1394,7 +1481,8 @@
                     "owner": "TianheWu",
                     "repo": "Assessor360",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:55:40.215Z"
                 }
               ],
               "description": null,
@@ -1416,7 +1504,8 @@
                     "owner": "IntMeGroup",
                     "repo": "ESIQA",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:55:40.215Z"
                 }
               ],
               "description": null,
@@ -1438,7 +1527,8 @@
                     "owner": "msu-video-group",
                     "repo": "adversarial-defenses-for-iqa",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:55:40.215Z"
                 },
                 {
                   "node_type": "item",
@@ -1453,7 +1543,8 @@
                     "owner": "zwx8981",
                     "repo": "PerceptualAttack_BIQA",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:55:40.215Z"
                 }
               ],
               "description": null,
@@ -1475,7 +1566,8 @@
                     "owner": "lidq92",
                     "repo": "LinearityIQA",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:55:40.215Z"
                 }
               ],
               "description": null,
@@ -1508,7 +1600,8 @@
                 "owner": "baidut",
                 "repo": "PaQ-2-PiQ",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1523,7 +1616,8 @@
                 "owner": "h4nwei",
                 "repo": "SPAQ",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1538,7 +1632,8 @@
                 "owner": "aimerykong",
                 "repo": "deepImageAestheticsAnalysis",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
@@ -1553,7 +1648,8 @@
                 "owner": "imfing",
                 "repo": "ava_downloader",
                 "stars": 452
-              }
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
             }
           ],
           "description": null,
@@ -1565,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:21:53.141Z",
+    "last_updated": "2026-08-29T01:55:40.215Z",
     "original_repository_info": {
       "archived": false,
       "id": 432720250,
