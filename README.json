@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of works on evaluation of visual generation models, including evaluation metrics, models, and systems",
+            "homepage": null,
             "id": 772958371,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-21T17:35:19Z",
+            "open_issues": 3,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 463
+            "stars": 463,
+            "topics": [
+              "awesome",
+              "benchmark",
+              "evaluation",
+              "evaluation-metrics",
+              "evaluation-system",
+              "generative-models",
+              "image-generation",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:40.215Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 274623521,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-11T10:15:12Z",
+            "open_issues": 2,
             "owner": "bcmi",
             "repo": "Awesome-Aesthetic-Evaluation-and-Cropping",
-            "stars": 413
+            "stars": 413,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:40.215Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of state-of-the-art image quality assessment algorithms",
+            "homepage": null,
             "id": 224152373,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-10T16:16:47Z",
+            "open_issues": 6,
             "owner": "weizhou-geek",
             "repo": "Image-Quality-Assessment-Benchmark",
-            "stars": 364
+            "stars": 364,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:40.215Z"
         },
@@ -58,12 +82,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of image quality related papers published in top conferences and journals",
+            "homepage": null,
             "id": 290907195,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-19T03:03:02Z",
+            "open_issues": 0,
             "owner": "weizhou-geek",
             "repo": "Recent-Image-Quality-Related-Papers",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:40.215Z"
         }
@@ -82,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for \"Seagull: No-reference Image Quality Assessment for Regions of Interest via Visual-Language Instruction Tuning\"",
+                "homepage": null,
                 "id": 887031673,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-07T03:32:17Z",
+                "open_issues": 7,
                 "owner": "chencn2020",
                 "repo": "SEAGULL",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -98,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official codes for \"Q-Ground: Image Quality Grounding with Large Multi-modality Models\", ACM MM2024 (Oral)",
+                "homepage": null,
                 "id": 832048654,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-21T01:30:09Z",
+                "open_issues": 4,
                 "owner": "Q-Future",
                 "repo": "Q-Ground",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -114,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "image quality metric",
+                "homepage": null,
                 "id": 743942781,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-31T13:43:17Z",
+                "open_issues": 1,
                 "owner": "ugurcogalan06",
                 "repo": "Enhanced-IQM",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             }
@@ -137,12 +181,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML2026 Spotlight] UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture",
+                "homepage": "https://thunderbolt215.github.io/Unipercept-project/",
                 "id": 1108332866,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-13T06:42:04Z",
+                "open_issues": 6,
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "benchmark",
+                  "dataset",
+                  "iaa",
+                  "image-aesthetics-assessment",
+                  "image-quality-assessment",
+                  "image-structure-and-texture-assessment",
+                  "image-understanding",
+                  "iqa",
+                  "ista",
+                  "mllm"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -153,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Official Pytorch Implementation of A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment",
+                "homepage": null,
                 "id": 772842204,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-20T11:17:20Z",
+                "open_issues": 1,
                 "owner": "TianheWu",
                 "repo": "MLLMs-for-IQA",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             }
@@ -176,12 +241,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment. ",
+                "homepage": "https://q-future.github.io/Q-Bench/",
                 "id": 696103502,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-12T14:19:49Z",
+                "open_issues": 2,
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "gpt-4",
+                  "iclr",
+                  "image-quality-assessment",
+                  "large-language-models",
+                  "low-level-vision",
+                  "quality-assessment",
+                  "vision-language-dataset",
+                  "visual-large-language-models"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -192,12 +271,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "②[CVPR 2024] Low-level visual instruction tuning, with a 200K dataset and a model zoo for fine-tuned checkpoints.",
+                "homepage": "https://q-future.github.io/Q-Instruct/",
                 "id": 711042389,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-12T14:19:59Z",
+                "open_issues": 11,
                 "owner": "Q-Future",
                 "repo": "Q-Instruct",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "cvpr2024",
+                  "image-quality-assessment",
+                  "low-level-vision"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -208,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024 & TIP] DepictQA: Depicted Image Quality Assessment with Vision Language Models",
+                "homepage": "https://depictqa.github.io",
                 "id": 809746292,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-21T06:23:05Z",
+                "open_issues": 19,
                 "owner": "XPixelGroup",
                 "repo": "DepictQA",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -224,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024 & TIP] DepictQA: Depicted Image Quality Assessment with Vision Language Models",
+                "homepage": "https://depictqa.github.io",
                 "id": 809746292,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-21T06:23:05Z",
+                "open_issues": 19,
                 "owner": "XPixelGroup",
                 "repo": "DepictQA",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -240,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025 Spotlight] VisualQuality-R1 is the first open-sourced NR-IQA model can accurately describe and rate the image quality.",
+                "homepage": null,
                 "id": 981240202,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T17:00:56Z",
+                "open_issues": 9,
                 "owner": "TianheWu",
                 "repo": "VisualQuality-R1",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -256,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Q-Insight is open-sourced at https://github.com/bytedance/Q-Insight. This repository will not receive further updates.",
+                "homepage": null,
                 "id": 956626521,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-30T05:16:51Z",
+                "open_issues": 1,
                 "owner": "lwq20020127",
                 "repo": "Q-Insight",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -272,12 +380,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.",
+                "homepage": "https://huggingface.co/q-future/co-instruct",
                 "id": 762735977,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-29T03:50:37Z",
+                "open_issues": 3,
                 "owner": "Q-Future",
                 "repo": "Co-Instruct",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "image-quality-assessment"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -288,12 +403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model. ",
+                "homepage": null,
                 "id": 961763362,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-30T09:55:16Z",
+                "open_issues": 3,
                 "owner": "AMAP-ML",
                 "repo": "RealQA",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -304,12 +424,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1153314723,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-09T07:30:55Z",
+                "open_issues": 1,
                 "owner": "aba122",
                 "repo": "Q-Hawkeye",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -320,12 +445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2026 Oral] Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment",
+                "homepage": null,
                 "id": 1157126856,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-14T09:14:15Z",
+                "open_issues": 1,
                 "owner": "xuanyuzhang21",
                 "repo": "RALI",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -336,12 +466,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of \"Panoptic Pairwise Distortion Graph\" paper accepted at ICLR 2026",
+                "homepage": "https://aismartperception.github.io/distortion-graph/",
                 "id": 1151781142,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-15T03:08:12Z",
+                "open_issues": 1,
                 "owner": "AISmartPerception",
                 "repo": "distortion-graphs",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "comparative-analysis",
+                  "distortion",
+                  "distortion-understanding",
+                  "image-comparison",
+                  "image-quality-assessment",
+                  "iqa",
+                  "scene-graph"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -352,12 +495,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official repo. for MR-IQA: A Unified Margin View of Regression and Ranking for Blind Image Quality Assessment",
+                "homepage": null,
                 "id": 1282807127,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T11:02:35Z",
+                "open_issues": 0,
                 "owner": "RobinY99",
                 "repo": "MR-IQA",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "biqa",
+                  "multimodal-learning",
+                  "ranking-algorithm",
+                  "regression-analysis",
+                  "reinforcement-learning-algorithms"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -368,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for QualiRAG: Retrieval-Augmented Generation for Visual Quality Understanding",
+                "homepage": null,
                 "id": 1142225529,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-26T05:47:40Z",
+                "open_issues": 1,
                 "owner": "clh124",
                 "repo": "QualiRAG",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             }
@@ -391,12 +550,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023] ImageReward: Learning and Evaluating Human Preferences for Text-to-image Generation",
+                "homepage": null,
                 "id": 622147274,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-29T13:40:51Z",
+                "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1702
+                "stars": 1702,
+                "topics": [
+                  "diffusion-models",
+                  "generative-model",
+                  "human-preferences",
+                  "rlhf"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -407,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 634557591,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-21T19:53:15Z",
+                "open_issues": 7,
                 "owner": "yuvalkirstain",
                 "repo": "PickScore",
-                "stars": 604
+                "stars": 604,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -423,12 +597,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Better Aligning Text-to-Image Models with Human Preference. ICCV 2023",
+                "homepage": "https://tgxs002.github.io/align_sd_web/",
                 "id": 617981544,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-14T05:43:58Z",
+                "open_issues": 14,
                 "owner": "tgxs002",
                 "repo": "align_sd",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -439,12 +620,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment. ",
+                "homepage": "https://q-future.github.io/Q-Bench/",
                 "id": 696103502,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-12T14:19:49Z",
+                "open_issues": 2,
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "gpt-4",
+                  "iclr",
+                  "image-quality-assessment",
+                  "large-language-models",
+                  "low-level-vision",
+                  "quality-assessment",
+                  "vision-language-dataset",
+                  "visual-large-language-models"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -455,12 +650,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering",
+                "homepage": "https://tifa-benchmark.github.io/",
                 "id": 617172831,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-29T04:34:08Z",
+                "open_issues": 13,
                 "owner": "Yushi-Hu",
                 "repo": "tifa",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "image-to-text",
+                  "large-language-models",
+                  "text-to-image",
+                  "visual-question-answering"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -471,12 +676,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RichHF-18K dataset contains rich human feedback labels we collected for our CVPR'24 paper: https://arxiv.org/pdf/2312.10240, along with the file name of the associated labeled images (no urls or images are included in this dataset).",
+                "homepage": null,
                 "id": 814896130,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-25T00:03:34Z",
+                "open_issues": 13,
                 "owner": "google-research-datasets",
                 "repo": "richhf-18k",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -487,12 +697,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IEEE TCSVT2023] A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment",
+                "homepage": null,
                 "id": 650543110,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-10-24T13:21:47Z",
+                "open_issues": 3,
                 "owner": "lcysyzxdxc",
                 "repo": "AGIQA-3k-Database",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "ai-generated-images",
+                  "image-quality-assessment",
+                  "stable-diffusion",
+                  "text-to-image"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             }
@@ -510,12 +730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An expert benchmark aiming to comprehensively evaluate the aesthetic perception capacities of MLLMs.",
+                "homepage": null,
                 "id": 724400771,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-04T03:01:36Z",
+                "open_issues": 4,
                 "owner": "yipoh",
                 "repo": "AesBench",
-                "stars": 263
+                "stars": 263,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -526,12 +751,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] ArtiMuse: Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding（书生 · 妙析多模态美学理解大模型）",
+                "homepage": "https://thunderbolt215.github.io/ArtiMuse-project/",
                 "id": 1023423887,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-25T10:15:05Z",
+                "open_issues": 8,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 219
+                "stars": 219,
+                "topics": [
+                  "dataset",
+                  "image-aesthetics-assessment",
+                  "mllm"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -542,12 +776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1163832519,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-10T03:15:30Z",
+                "open_issues": 7,
                 "owner": "PKU-ICST-MIPL",
                 "repo": "Venus_CVPR2026",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -558,12 +797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACMMM 2024] AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception",
+                "homepage": null,
                 "id": 779890165,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-19T04:13:33Z",
+                "open_issues": 4,
                 "owner": "yipoh",
                 "repo": "AesExpert",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -574,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 612201314,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-21T02:37:46Z",
+                "open_issues": 5,
                 "owner": "Dreemurr-T",
                 "repo": "BAID",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -590,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official PyTorch Implementation of Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment",
+                "homepage": null,
                 "id": 940027271,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-04T13:45:56Z",
+                "open_issues": 0,
                 "owner": "FBehrad",
                 "repo": "Charm",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -606,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI26] Bridging Cognitive Gap: Hierarchical Description Learning for Artistic Image Aesthetics Assessment",
+                "homepage": null,
                 "id": 1096845031,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-30T05:31:34Z",
+                "open_issues": 2,
                 "owner": "Henglin-Liu",
                 "repo": "ArtQuant",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -622,12 +881,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1146004504,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-18T03:29:02Z",
+                "open_issues": 1,
                 "owner": "michaelliyunhao",
                 "repo": "VideoAesBench",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             }
@@ -645,12 +909,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔎 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...",
+                "homepage": "https://iqa-pytorch.readthedocs.io/",
                 "id": 432720685,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-08T10:48:34Z",
+                "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3381
+                "stars": 3381,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "image-aesthetic-assessment",
+                  "image-quality-assessment",
+                  "iqa",
+                  "ms-ssim",
+                  "psnr",
+                  "python",
+                  "pytorch",
+                  "pytorch-implementation",
+                  "ssim"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -661,12 +941,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2023] Exploring CLIP for Assessing the Look and Feel of Images",
+                "homepage": null,
                 "id": 513791598,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-27T18:37:30Z",
+                "open_issues": 24,
                 "owner": "IceClear",
                 "repo": "CLIP-IQA",
-                "stars": 495
+                "stars": 495,
+                "topics": [
+                  "clip",
+                  "iqa"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -677,12 +965,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2023] Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective",
+                "homepage": null,
                 "id": 607605929,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-10T06:38:25Z",
+                "open_issues": 0,
                 "owner": "zwx8981",
                 "repo": "LIQE",
-                "stars": 243
+                "stars": 243,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "clip",
+                  "image-quality-assessment",
+                  "multitask-learning",
+                  "no-reference-image-quality-assessment",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -693,12 +993,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment",
+                "homepage": null,
                 "id": 707124136,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-18T05:10:10Z",
+                "open_issues": 1,
                 "owner": "miccunifi",
                 "repo": "ARNIQA",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "biqa",
+                  "blind-image-quality-assessment",
+                  "computer-vision",
+                  "contrastive-learning",
+                  "deep-learning",
+                  "degradation-model",
+                  "fr-iqa",
+                  "full-reference-image-quality-assessment",
+                  "full-reference-iqa",
+                  "image-degradation",
+                  "image-processing",
+                  "image-quality",
+                  "image-quality-assessment",
+                  "iqa",
+                  "low-level-vision",
+                  "no-reference-image-quality-assessment",
+                  "nr-iqa",
+                  "resnet",
+                  "self-supervised-learning",
+                  "simclr"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -709,12 +1035,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment",
+                "homepage": null,
                 "id": 772950362,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-10T15:35:42Z",
+                "open_issues": 2,
                 "owner": "miccunifi",
                 "repo": "QualiCLIP",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "biqa",
+                  "blind-image-quality-assessment",
+                  "clip",
+                  "computer-vision",
+                  "deep-learning",
+                  "image-degradation",
+                  "image-processing",
+                  "image-quality",
+                  "image-quality-assessment",
+                  "image-text",
+                  "iqa",
+                  "low-level-vision",
+                  "no-reference-image-quality-assessment",
+                  "nr-iqa",
+                  "opinion-unaware",
+                  "opinion-unaware-nr-iqa",
+                  "ranking-loss",
+                  "self-supervised-learning",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -725,12 +1076,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for CVPR2023 Paper \"Re-IQA : Unsupervised Learning for Image Quality Assessment in the Wild\"",
+                "homepage": "https://arxiv.org/abs/2304.00451",
                 "id": 556466947,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-25T04:00:41Z",
+                "open_issues": 5,
                 "owner": "avinabsaha",
                 "repo": "ReIQA",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "contrastive-learning",
+                  "cvpr",
+                  "cvpr2023",
+                  "fr-iqa",
+                  "full-reference-image-quality-assessment",
+                  "image-processing",
+                  "image-quality",
+                  "moco-v2",
+                  "no-reference-image-quality-assessment",
+                  "nr-iqa",
+                  "re-iqa",
+                  "resnet-50",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -741,12 +1112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TPAMI2023] Continual Learning for Blind Image Quality Assessment",
+                "homepage": null,
                 "id": 340620944,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-30T06:23:15Z",
+                "open_issues": 1,
                 "owner": "zwx8981",
                 "repo": "BIQA_CL",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -757,12 +1133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment",
+                "homepage": null,
                 "id": 316443360,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-17T12:33:45Z",
+                "open_issues": 3,
                 "owner": "geekyutao",
                 "repo": "GraphIQA",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -773,12 +1154,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥🔥🔥[AAAI 2026] Official code release of our paper \"Fine-grained Image Quality Assessment for Perceptual Image Restoration\". 首个面向图像恢复的细粒度IQA数据集FGRestore+方法FGResQ",
+                "homepage": "https://sxfly99.github.io/FGResQ-Home/",
                 "id": 1039922298,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-03T09:12:28Z",
+                "open_issues": 2,
                 "owner": "sxfly99",
                 "repo": "FGResQ",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "debluring",
+                  "dehazing",
+                  "denoising",
+                  "deraining",
+                  "fine-grained",
+                  "image-processing",
+                  "image-quality-assessment",
+                  "image-restoration",
+                  "image-super-resolution",
+                  "low-level-vision",
+                  "restoration",
+                  "super-resolution"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -789,12 +1188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Checkpoints, logs and source code for AAAI-23 paper 'Data-Efficient Image Quality Assessment with Attention-Panel Decoder'",
+                "homepage": null,
                 "id": 572554735,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-03T12:23:50Z",
+                "open_issues": 7,
                 "owner": "narthchin",
                 "repo": "DEIQT",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -805,12 +1209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Blind Image Quality Assessment Based On Geometric Order Learning",
+                "homepage": null,
                 "id": 769142873,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-26T07:04:03Z",
+                "open_issues": 7,
                 "owner": "nhshin-mcl",
                 "repo": "QCN",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -821,12 +1230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for VCRNet: Visual Compensation Restoration Network for No-Reference Image Quality Assessment",
+                "homepage": null,
                 "id": 420060868,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-12T14:03:06Z",
+                "open_issues": 6,
                 "owner": "NUIST-Videocoding",
                 "repo": "VCRNet",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -837,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"No-Reference Image Quality Assessment by Hallucinating Pristine Features\"",
+                "homepage": null,
                 "id": 389417121,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-08T16:10:32Z",
+                "open_issues": 2,
                 "owner": "Baoliang93",
                 "repo": "FPR",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -853,12 +1272,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official released code for troubleshooting BIQA in the wild",
+                "homepage": null,
                 "id": 349770383,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-02T17:59:16Z",
+                "open_issues": 1,
                 "owner": "wzhsysu",
                 "repo": "troubleshooting_BIQA",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -869,12 +1293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Test Time Adaptation in the context of Blind Image Quality Assessment.",
+                "homepage": null,
                 "id": 686976969,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-09T09:28:46Z",
+                "open_issues": 0,
                 "owner": "Shankhanil006",
                 "repo": "TTA-IQA",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -885,12 +1314,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPRW oral 2022] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment",
+                "homepage": null,
                 "id": 480789242,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-10T10:38:21Z",
+                "open_issues": 14,
                 "owner": "IIGROUP",
                 "repo": "MANIQA",
-                "stars": 432
+                "stars": 432,
+                "topics": [
+                  "csiq",
+                  "cvpr2022",
+                  "deep-learning",
+                  "kadid-10k",
+                  "live",
+                  "nr-iqa",
+                  "pipal",
+                  "pytorch-implementation",
+                  "swintransformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -901,12 +1346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency",
+                "homepage": null,
                 "id": 394028829,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-17T03:34:51Z",
+                "open_issues": 0,
                 "owner": "isalirezag",
                 "repo": "TReS",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -917,12 +1367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 419549710,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-29T14:15:34Z",
+                "open_issues": 5,
                 "owner": "SSL92",
                 "repo": "koniqplusplus",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -933,12 +1388,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38642
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -949,12 +1413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'21] CKDN: Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment",
+                "homepage": null,
                 "id": 394225149,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-09T06:48:29Z",
+                "open_issues": 6,
                 "owner": "researchmm",
                 "repo": "CKDN",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -965,12 +1434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for the CVPR'20 paper \"Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network\"",
+                "homepage": null,
                 "id": 245560005,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-14T09:29:58Z",
+                "open_issues": 36,
                 "owner": "SSL92",
                 "repo": "hyperIQA",
-                "stars": 434
+                "stars": 434,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -981,12 +1455,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 269943832,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-11T02:26:13Z",
+                "open_issues": 18,
                 "owner": "zhuhancheng",
                 "repo": "MetaIQA",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -997,12 +1476,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of Generated Image Quality Assessment",
+                "homepage": null,
                 "id": 271158579,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-20T07:11:48Z",
+                "open_issues": 6,
                 "owner": "cientgu",
                 "repo": "GIQA",
-                "stars": 218
+                "stars": 218,
+                "topics": [
+                  "generative-adversarial-networks",
+                  "generative-model",
+                  "image-quality-assessment"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1013,12 +1501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workshop and Challenge on  Perceptual Image Restoration  and Manipulation",
+                "homepage": "https://www.pirm2018.org/",
                 "id": 130463627,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2020-08-26T18:01:37Z",
+                "open_issues": 6,
                 "owner": "roimehrez",
                 "repo": "PIRM2018",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1029,12 +1522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The rep for the RankIQA paper in ICCV 2017 ",
+                "homepage": "https://xialeiliu.github.io/RankIQA/",
                 "id": 98201534,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2019-02-19T14:26:08Z",
+                "open_issues": 16,
                 "owner": "xialeiliu",
                 "repo": "RankIQA",
-                "stars": 451
+                "stars": 451,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1045,12 +1543,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[unofficial] CVPR2014-Convolutional neural networks for no-reference image quality assessment",
+                "homepage": null,
                 "id": 130167207,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-22T04:48:28Z",
+                "open_issues": 6,
                 "owner": "lidq92",
                 "repo": "CNNIQA",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "convolutional-neural-networks",
+                  "image-quality-assessment",
+                  "pytorch",
+                  "quality-metrics"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1061,12 +1570,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository for 'Uncertainty-aware blind image quality assessment in the laboratory and wild' and 'Learning to blindly assess image quality in the laboratory and wild'",
+                "homepage": null,
                 "id": 265136808,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-08T13:42:03Z",
+                "open_issues": 0,
                 "owner": "zwx8981",
                 "repo": "UNIQUE",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "deep-neural-networks",
+                  "image-quality-assessment",
+                  "learning-to-rank",
+                  "matlab",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1077,12 +1598,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An experimental Pytorch implementation of Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network",
+                "homepage": null,
                 "id": 166771453,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-19T14:50:35Z",
+                "open_issues": 3,
                 "owner": "zwx8981",
                 "repo": "DBCNN-PyTorch",
-                "stars": 230
+                "stars": 230,
+                "topics": [
+                  "bilinear-pooling",
+                  "biqa",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "image-quality-assessment",
+                  "iqa",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1093,12 +1629,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[official] No reference image quality assessment based Semantic Feature Aggregation, published in ACM MM 2017, TMM 2019",
+                "homepage": null,
                 "id": 119025388,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2023-10-03T21:38:26Z",
+                "open_issues": 4,
                 "owner": "lidq92",
                 "repo": "SFA",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "caffe",
+                  "camera-images",
+                  "image-content-variation",
+                  "image-quality-assessment",
+                  "plsr-model",
+                  "resnet-50"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1109,12 +1658,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Unified Probabilistic Formulation of Image Aesthetic Assessment",
+                "homepage": null,
                 "id": 124345983,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2019-09-18T12:51:23Z",
+                "open_issues": 2,
                 "owner": "HuiZeng",
                 "repo": "Unified_IAA",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "image-aesthetic-assessment"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1125,12 +1681,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[unofficial] Pytorch implementation of WaDIQaM in TIP2018, Bosse S. et al. (Deep neural networks for no-reference and full-reference image quality assessment)",
+                "homepage": null,
                 "id": 130065918,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T21:54:32Z",
+                "open_issues": 3,
                 "owner": "lidq92",
                 "repo": "WaDIQaM",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "deep-neural-networks",
+                  "full-reference-iqa",
+                  "image-quality-assessment",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1141,12 +1708,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Implementation of Neural IMage Assessment",
+                "homepage": null,
                 "id": 121835729,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-10T11:36:17Z",
+                "open_issues": 24,
                 "owner": "yunxiaoshi",
                 "repo": "Neural-IMage-Assessment",
-                "stars": 585
+                "stars": 585,
+                "topics": [
+                  "computer-vision",
+                  "image-enhancement",
+                  "machine-learning",
+                  "photo-editing"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1157,12 +1734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 330295771,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-01-17T02:01:48Z",
+                "open_issues": 1,
                 "owner": "utlive",
                 "repo": "FRIQUEE",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1173,12 +1755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 330295643,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-12-02T01:02:39Z",
+                "open_issues": 0,
                 "owner": "utlive",
                 "repo": "BRISQUE",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1189,12 +1776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 330295632,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-01-17T02:00:30Z",
+                "open_issues": 1,
                 "owner": "utlive",
                 "repo": "BLIINDS2",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1205,12 +1797,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A benchmark implementation of representative deep BIQA models",
+                "homepage": null,
                 "id": 112996957,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2019-04-08T06:16:19Z",
+                "open_issues": 2,
                 "owner": "HuiZeng",
                 "repo": "BIQA_Toolbox",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "image-quality-assessment"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1221,12 +1821,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 330295959,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-10-26T02:37:09Z",
+                "open_issues": 1,
                 "owner": "utlive",
                 "repo": "niqe",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1237,12 +1842,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 330295755,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-05-24T11:58:46Z",
+                "open_issues": 2,
                 "owner": "utlive",
                 "repo": "DIIVINE",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             }
@@ -1260,12 +1870,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] We investigated a broad range of neural network elements and developed a robust perceptual similarity metric. Our shift-tolerant perceptual similarity metric (ST-LPIPS) is consistent with human perception and is less susceptible to imperceptible misalignments between two images than existing metrics.",
+                "homepage": null,
                 "id": 523211102,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-05-21T23:35:28Z",
+                "open_issues": 0,
                 "owner": "abhijay9",
                 "repo": "ShiftTolerant-LPIPS",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "full-reference-image-quality-assessment",
+                  "full-reference-iqa",
+                  "image-quality-assessment",
+                  "iqa",
+                  "ml-robustness",
+                  "perceptual-similarity"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1276,12 +1898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo code of ACMMM 2022 \"Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity\"",
+                "homepage": null,
                 "id": 512933159,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2022-10-13T05:11:35Z",
+                "open_issues": 3,
                 "owner": "weizhou-geek",
                 "repo": "SRIF",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1292,12 +1919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPRW 2022] Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network",
+                "homepage": null,
                 "id": 482758292,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-17T03:53:08Z",
+                "open_issues": 11,
                 "owner": "IIGROUP",
                 "repo": "AHIQ",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1308,12 +1940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 473700157,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-03-24T17:06:34Z",
+                "open_issues": 8,
                 "owner": "happycaoyue",
                 "repo": "JSPL",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1324,12 +1961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch code for our AAAI2022 Oral paper \"Content-Variant Reference Image Quality Assessment via Knowledge Distillation\"",
+                "homepage": null,
                 "id": 435713391,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-05T02:44:21Z",
+                "open_issues": 3,
                 "owner": "guanghaoyin",
                 "repo": "CVRKD-IQA",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1340,12 +1982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial implementation of CVPR2021 paper \"Perceptual Image Quality Assessment with Transformers\"",
+                "homepage": null,
                 "id": 419550846,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-21T02:41:02Z",
+                "open_issues": 11,
                 "owner": "anse3832",
                 "repo": "IQT",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1356,12 +2003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Locally Adaptive DISTS",
+                "homepage": null,
                 "id": 387637634,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-07T05:33:51Z",
+                "open_issues": 1,
                 "owner": "dingkeyan93",
                 "repo": "A-DISTS",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1372,12 +2024,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IQA: Deep Image Structure and Texture Similarity Metric",
+                "homepage": null,
                 "id": 255875665,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-22T15:11:21Z",
+                "open_issues": 12,
                 "owner": "dingkeyan93",
                 "repo": "DISTS",
-                "stars": 489
+                "stars": 489,
+                "topics": [
+                  "dists",
+                  "image-quality-assessment",
+                  "iqa",
+                  "loss-functions",
+                  "optimization",
+                  "pytorch",
+                  "quality-metrics",
+                  "similarity",
+                  "structure",
+                  "texture"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1388,12 +2056,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[unofficial] Pytorch implementation of WaDIQaM in TIP2018, Bosse S. et al. (Deep neural networks for no-reference and full-reference image quality assessment)",
+                "homepage": null,
                 "id": 130065918,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T21:54:32Z",
+                "open_issues": 3,
                 "owner": "lidq92",
                 "repo": "WaDIQaM",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "deep-neural-networks",
+                  "full-reference-iqa",
+                  "image-quality-assessment",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             }
@@ -1413,12 +2092,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] - Image Intrinsic Scale Assessment: Bridging the Gap Between Quality and Resolution",
+                    "homepage": null,
                     "id": 1012948404,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-08-16T18:50:30Z",
+                    "open_issues": 2,
                     "owner": "SonyResearch",
                     "repo": "IISA",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "biqa",
+                      "blind-image-quality-assessment",
+                      "downscaling",
+                      "iccv",
+                      "iccv2025",
+                      "image-degradation",
+                      "image-interpolation",
+                      "image-processing",
+                      "image-quality",
+                      "image-quality-assessment",
+                      "image-quality-assessment-database",
+                      "image-resizing",
+                      "image-resolution",
+                      "iqa",
+                      "low-level-vision",
+                      "mean-opinion-score",
+                      "no-reference-image-quality-assessment",
+                      "nr-iqa",
+                      "resize-images",
+                      "subjective-image-assessment"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
                 }
@@ -1436,12 +2141,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures",
+                    "homepage": null,
                     "id": 824540564,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-15T07:24:21Z",
+                    "open_issues": 1,
                     "owner": "real-hjq",
                     "repo": "MS-SWD",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
                 },
@@ -1452,12 +2162,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 607987386,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-21T05:41:05Z",
+                    "open_issues": 0,
                     "owner": "haoychen3",
                     "repo": "CD-Flow",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
                 }
@@ -1475,12 +2190,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] Assessor360: Multi-sequence Network for Blind Omnidirectional Image Quality Assessment",
+                    "homepage": null,
                     "id": 650474888,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-11T07:58:37Z",
+                    "open_issues": 0,
                     "owner": "TianheWu",
                     "repo": "Assessor360",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": [
+                      "360-degree",
+                      "deep-learning",
+                      "iqa",
+                      "omnidirectional-images"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
                 }
@@ -1498,12 +2223,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 835591114,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-08-07T02:40:46Z",
+                    "open_issues": 1,
                     "owner": "IntMeGroup",
                     "repo": "ESIQA",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
                 }
@@ -1521,12 +2251,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for paper Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics",
+                    "homepage": null,
                     "id": 811024185,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-05-19T19:39:50Z",
+                    "open_issues": 1,
                     "owner": "msu-video-group",
                     "repo": "adversarial-defenses-for-iqa",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
                 },
@@ -1537,12 +2272,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS2022] Perceptual Attacks of No-Reference Image Quality Models with Human-in-the-Loop",
+                    "homepage": null,
                     "id": 542492933,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-04-13T05:43:31Z",
+                    "open_issues": 0,
                     "owner": "zwx8981",
                     "repo": "PerceptualAttack_BIQA",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
                 }
@@ -1560,12 +2300,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[official] Norm-in-Norm Loss with Faster Convergence and Better Performance for Image Quality Assessment (ACM MM 2020)",
+                    "homepage": "https://lidq92.github.io/LinearityIQA/",
                     "id": 284060958,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-03T21:59:44Z",
+                    "open_issues": 5,
                     "owner": "lidq92",
                     "repo": "LinearityIQA",
-                    "stars": 99
+                    "stars": 99,
+                    "topics": [
+                      "image-quality-assessment",
+                      "in-the-wild",
+                      "loss-functions",
+                      "regression"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
                 }
@@ -1594,12 +2344,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for \"From Patches to Pictures (PaQ-2-PiQ): Mapping the Perceptual Space of Picture Quality\"",
+                "homepage": "https://baidut.github.io/PaQ-2-PiQ",
                 "id": 237024974,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-10-02T15:02:10Z",
+                "open_issues": 10,
                 "owner": "baidut",
                 "repo": "PaQ-2-PiQ",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "computer-vision",
+                  "image-processing",
+                  "image-quality",
+                  "image-quality-assessment",
+                  "picture-quality"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1610,12 +2371,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'20] Official SPAQ & Implementation",
+                "homepage": null,
                 "id": 214942825,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-17T07:55:44Z",
+                "open_issues": 10,
                 "owner": "h4nwei",
                 "repo": "SPAQ",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "dataset",
+                  "image-quality-assessment"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1626,12 +2395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ECCV2016 - fine-grained photo aesthetics rating with interpretability",
+                "homepage": "https://www.cs.cmu.edu/~shuk/aesthetics.html",
                 "id": 60445908,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2024-12-12T13:39:22Z",
+                "open_issues": 22,
                 "owner": "aimerykong",
                 "repo": "deepImageAestheticsAnalysis",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1642,12 +2416,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":arrow_double_down: Download AVA dataset (A Large-Scale Database for Aesthetic Visual Analysis)",
+                "homepage": null,
                 "id": 73590649,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-14T21:07:34Z",
+                "open_issues": 1,
                 "owner": "imfing",
                 "repo": "ava_downloader",
-                "stars": 452
+                "stars": 452,
+                "topics": [
+                  "aesthetic-visual-analysis",
+                  "ava",
+                  "computer-vision",
+                  "dataset",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             }
@@ -1661,15 +2446,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:55:40.215Z",
+    "last_updated": "2026-08-29T04:29:25.219Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A comprehensive collection of IQA papers",
+      "homepage": null,
       "id": 432720250,
       "language": "TeX",
+      "license": "MIT",
       "last_commit": "2026-08-02T10:48:23Z",
+      "open_issues": 8,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
-      "stars": 1539
+      "stars": 1539,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blind-image-quality-assessment",
+        "image-quality-assessment",
+        "iqa",
+        "iqa-dataset"
+      ]
     },
     "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
