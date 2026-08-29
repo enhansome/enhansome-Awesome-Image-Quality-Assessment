@@ -1397,7 +1397,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38643,
+                "stars": 38650,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2446,7 +2446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:25.219Z",
+    "last_updated": "2026-08-29T21:19:58.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
