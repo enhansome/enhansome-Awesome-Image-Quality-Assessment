@@ -461,6 +461,27 @@
             },
             {
               "node_type": "item",
+              "title": "✨ Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos",
+              "description": ", Saini et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Full HDR UGC Dataset - CVPR 2026",
+                "homepage": "https://shreshthsaini.github.io/Beyond8Bits/",
+                "id": 1169698308,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-06-23T00:07:45Z",
+                "open_issues": 0,
+                "owner": "shreshthsaini",
+                "repo": "Beyond8Bits",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-30T21:38:16.250Z"
+            },
+            {
+              "node_type": "item",
               "title": "✨ Panoptic Pairwise Distortion Graph",
               "description": ", Janjua et al. Github | Bibtex",
               "children": [],
@@ -915,7 +936,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-08T10:48:34Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
                 "stars": 3381,
@@ -950,7 +971,7 @@
                 "open_issues": 24,
                 "owner": "IceClear",
                 "repo": "CLIP-IQA",
-                "stars": 495,
+                "stars": 496,
                 "topics": [
                   "clip",
                   "iqa"
@@ -1397,7 +1418,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38650,
+                "stars": 38655,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2446,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:19:58.756Z",
+    "last_updated": "2026-08-30T21:38:16.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2454,8 +2475,8 @@
       "id": 432720250,
       "language": "TeX",
       "license": "MIT",
-      "last_commit": "2026-08-02T10:48:23Z",
-      "open_issues": 8,
+      "last_commit": "2026-08-30T11:56:31Z",
+      "open_issues": 7,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
       "stars": 1539,
@@ -2468,7 +2489,7 @@
         "iqa-dataset"
       ]
     },
-    "original_repository_sha": "2dbd5f30c6618c38f98cdef9dc7eeb1481e19bd1",
+    "original_repository_sha": "2d767cc75821c8b781ac681c804fd39e196d058f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
     "enhanced_repository_description": null,
     "title": "Awesome Image Quality Assessment (IQA) with stars"
