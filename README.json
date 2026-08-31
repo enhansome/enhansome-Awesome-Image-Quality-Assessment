@@ -580,7 +580,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1702,
+                "stars": 1703,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -806,7 +806,7 @@
                 "open_issues": 7,
                 "owner": "PKU-ICST-MIPL",
                 "repo": "Venus_CVPR2026",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -935,8 +935,8 @@
                 "id": 432720685,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-08T10:48:34Z",
-                "open_issues": 56,
+                "last_commit": "2026-08-31T01:33:31Z",
+                "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
                 "stars": 3381,
@@ -1414,11 +1414,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T09:11:14Z",
+                "last_commit": "2026-08-31T14:53:17Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38655,
+                "stars": 38661,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2467,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:38:16.250Z",
+    "last_updated": "2026-08-31T23:02:36.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
