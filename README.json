@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 463,
+            "stars": 462,
             "topics": [
               "awesome",
               "benchmark",
@@ -1418,7 +1418,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38661,
+                "stars": 38672,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2467,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:02:36.937Z",
+    "last_updated": "2026-09-01T21:25:51.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
