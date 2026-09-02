@@ -1,8 +1,8 @@
 # Awesome Image Quality Assessment (IQA) with stars
 
-A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,381 | 🐛 55 | 🌐 Python | 📅 2026-08-31
+A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,382 | 🐛 55 | 🌐 Python | 📅 2026-08-31
 
-[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,381 | 🐛 55 | 🌐 Python | 📅 2026-08-31 [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment)
+[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,382 | 🐛 55 | 🌐 Python | 📅 2026-08-31 [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment)
 
 > \[!TIP]\
 > 📚✍️ Feel free to submit a pull request to add a paper you think deserves to be featured in this repository! Your contributions are incredibly appreciated 🙌 and will help make this project even better for everyone!\
@@ -45,7 +45,7 @@ Related Resources:
 
 > All IQA types unified in a single model
 
-* `[Arxiv 2025]` [UniPercept: A Unified Perceptual Framework for Multi-task Image Quality Assessment](https://arxiv.org/abs/2512.21675), et al. [Github](https://github.com/thunderbolt215/UniPercept) ⭐ 165 | 🐛 6 | 🌐 Python | 📅 2026-07-13 | [Bibtex](./iqa_ref.bib#L1155-L1160)
+* `[Arxiv 2025]` [UniPercept: A Unified Perceptual Framework for Multi-task Image Quality Assessment](https://arxiv.org/abs/2512.21675), et al. [Github](https://github.com/thunderbolt215/UniPercept) ⭐ 166 | 🐛 6 | 🌐 Python | 📅 2026-07-13 | [Bibtex](./iqa_ref.bib#L1155-L1160)
 * `[ICML 2024]` [Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://arxiv.org/abs/2312.17090), Wu et al. [Github](https://github.com/TianheWu/MLLMs-for-IQA) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2024-07-20 | [Bibtex](./iqa_ref.bib#L869-L876)
 * `[ECCV 2024]` [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993), Chen et al. [Bibtex](./iqa_ref.bib#L945-L952)
 
@@ -62,7 +62,7 @@ Related Resources:
 * `[ECCV 2024]` [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641), Wu et al. [Github](https://github.com/Q-Future/Co-Instruct) ⭐ 87 | 🐛 3 | 📅 2024-09-29 | [Bibtex](./iqa_ref.bib#L920-L927)
 * `[Arxiv 2025]` [Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model](https://arxiv.org/pdf/2503.06141), Li et al. [Github](https://github.com/AMAP-ML/RealQA) ⭐ 86 | 🐛 3 | 🌐 Python | 📅 2025-06-30 | [Bibtex](./iqa_ref.bib#L1141-L1146)
 * `[Arxiv 2026]` [Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment](https://arxiv.org/abs/2601.22920), Xie et al. [Github](https://github.com/AMAP-ML/Q-Hawkeye) ⭐ 61 | 🐛 1 | 🌐 Python | 📅 2026-02-09 | [Bibtex](./iqa_ref.bib#L1176-L1181)
-* ✨`[ICLR 2026 (Oral)]` [Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment](https://arxiv.org/abs/2510.11369), Zhao et al. [Github](https://github.com/xuanyuzhang21/RALI) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-02-14 | [Bibtex](./iqa_ref.bib#L1278-L1283)
+* ✨`[ICLR 2026 (Oral)]` [Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment](https://arxiv.org/abs/2510.11369), Zhao et al. [Github](https://github.com/xuanyuzhang21/RALI) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-02-14 | [Bibtex](./iqa_ref.bib#L1278-L1283)
 * ✨`[CVPR 2026]` [Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos](https://arxiv.org/abs/2603.00938), Saini et al. [Github](https://github.com/shreshthsaini/Beyond8Bits) ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2026-06-23 | [Bibtex](./iqa_ref.bib#L1302-L1307)
 * ✨`[ICLR 2026]` [Panoptic Pairwise Distortion Graph](https://arxiv.org/pdf/2604.11004), Janjua et al. [Github](https://github.com/AISmartPerception/distortion-graphs) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-04-15 | [Bibtex](./iqa_ref.bib#L1285-L1290)
 * `[Arxiv 2026]` [MR-IQA: A Unified Margin View of Regression and Ranking for Blind Image Quality Assessment](https://arxiv.org/abs/2606.29760), Li et al. [Github](https://github.com/RobinY99/MR-IQA) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-20 | [Bibtex](./iqa_ref.bib#L1292-L1300)
@@ -101,7 +101,7 @@ Related Resources:
 
 ### No Reference (NR)
 
-* `[TIP2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,381 | 🐛 55 | 🌐 Python | 📅 2026-08-31 | [Bibtex](./iqa_ref.bib#L906-L911)
+* `[TIP2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,382 | 🐛 55 | 🌐 Python | 📅 2026-08-31 | [Bibtex](./iqa_ref.bib#L906-L911)
 
 * `[AAAI2023]` [Exploring CLIP for Assessing the Look and Feel of Images](https://arxiv.org/abs/2207.12396), Wang et al. [Github](https://github.com/IceClear/CLIP-IQA) ⭐ 496 | 🐛 24 | 🌐 Python | 📅 2023-10-27 | [Bibtex](./iqa_ref.bib#L746-L751)
 
@@ -154,7 +154,7 @@ Related Resources:
 | [arXiv](https://arxiv.org/abs/2204.08958)                                                                                                 | MANIQA            | NR           | CVPRW2022           | [Official](https://github.com/IIGROUP/MANIQA) ⭐ 432 \| 🐛 14 \| 🌐 Python \| 📅 2023-06-10                                                                                                                                                | Transformer, multi-dimension attention, dual branch                      |
 | [arXiv](https://arxiv.org/abs/2108.06858)                                                                                                 | TReS              | NR           | WACV2022            | [Official](https://github.com/isalirezag/TReS) ⭐ 162 \| 🐛 0 \| 🌐 Python \| 📅 2023-02-17                                                                                                                                                | Transformer, relative ranking, self-consistency                          |
 | [pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf)                                                                  | KonIQ++           | NR           | BMVC2021            | [Official](https://github.com/SSL92/koniqplusplus) ⭐ 21 \| 🐛 5 \| 🌐 Python \| 📅 2024-11-29                                                                                                                                             | Multi-task with distortion prediction                                    |
-| [arXiv](https://arxiv.org/abs/2108.05997)                                                                                                 | MUSIQ             | NR           | ICCV2021            | [Official](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 38,672 \| 🐛 1,989 \| 🌐 Jupyter Notebook \| 📅 2026-08-31 / [Pytorch](https://github.com/anse3832/MUSIQ) ⭐ 152 \| 🐛 11 \| 🌐 Python \| 📅 2021-10-22 | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing          |
+| [arXiv](https://arxiv.org/abs/2108.05997)                                                                                                 | MUSIQ             | NR           | ICCV2021            | [Official](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 38,680 \| 🐛 1,989 \| 🌐 Jupyter Notebook \| 📅 2026-09-02 / [Pytorch](https://github.com/anse3832/MUSIQ) ⭐ 152 \| 🐛 11 \| 🌐 Python \| 📅 2021-10-22 | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing          |
 | [arXiv](https://arxiv.org/abs/2108.07948)                                                                                                 | CKDN              | NR           | ICCV2021            | [Official](https://github.com/researchmm/CKDN) ⭐ 59 \| 🐛 6 \| 🌐 Python \| 📅 2022-04-09                                                                                                                                                 | Degraded reference, Conditional knowledge distillation (related to HIQA) |
 | [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) | HyperIQA          | NR           | CVPR2020            | [Official](https://github.com/SSL92/hyperIQA) ⭐ 434 \| 🐛 36 \| 🌐 Python \| 📅 2023-12-14                                                                                                                                                | Content-aware hyper network                                              |
 | [arXiv](https://arxiv.org/abs/2004.05508)                                                                                                 | Meta-IQA          | NR           | CVPR2020            | [Official](https://github.com/zhuhancheng/MetaIQA) ⭐ 128 \| 🐛 18 \| 🌐 Python \| 📅 2020-10-11                                                                                                                                           | Meta-learning                                                            |
@@ -188,7 +188,7 @@ Related Resources:
 
 ### Full Reference (FR)
 
-* `[ECCV2022]` [Shift-tolerant Perceptual Similarity Metric](https://arxiv.org/abs/2211.052152207.13686), Ghildyal et al. [Github](https://github.com/abhijay9/ShiftTolerant-LPIPS) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2024-05-21 | [Bibtex](./iqa_ref.bib#L732-L737)
+* `[ECCV2022]` [Shift-tolerant Perceptual Similarity Metric](https://arxiv.org/abs/2211.052152207.13686), Ghildyal et al. [Github](https://github.com/abhijay9/ShiftTolerant-LPIPS) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2024-05-21 | [Bibtex](./iqa_ref.bib#L732-L737)
 * `[ACM MM2022]` [Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity](https://arxiv.org/abs/2207.08689), Zhou et al. [Github](https://github.com/weizhou-geek/SRIF) ⭐ 14 | 🐛 3 | 🌐 MATLAB | 📅 2022-10-13 | [Bibtex](./iqa_ref.bib#L710-L715)
 * `[BMVC2022]` [Content-Diverse Comparisons improve IQA](https://arxiv.org/abs/2211.05215), Thong et al. [Bibtex](./iqa_ref.bib#L725-L730)
 
@@ -289,4 +289,4 @@ Related Resources:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
