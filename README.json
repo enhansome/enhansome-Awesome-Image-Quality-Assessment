@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "awesome",
               "benchmark",
@@ -375,6 +375,27 @@
             },
             {
               "node_type": "item",
+              "title": "Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model",
+              "description": ", Li et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model. ",
+                "homepage": null,
+                "id": 961763362,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-06-30T09:55:16Z",
+                "open_issues": 3,
+                "owner": "AMAP-ML",
+                "repo": "RealQA",
+                "stars": 87,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
               "title": "Towards Open-ended Visual Quality Comparison",
               "description": ", Wu et al. Github | Bibtex",
               "children": [],
@@ -393,27 +414,6 @@
                 "topics": [
                   "image-quality-assessment"
                 ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model",
-              "description": ", Li et al. Github | Bibtex",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model. ",
-                "homepage": null,
-                "id": 961763362,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-06-30T09:55:16Z",
-                "open_issues": 3,
-                "owner": "AMAP-ML",
-                "repo": "RealQA",
-                "stars": 86,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -781,7 +781,7 @@
                 "open_issues": 8,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -827,7 +827,7 @@
                 "open_issues": 4,
                 "owner": "yipoh",
                 "repo": "AesExpert",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -848,7 +848,7 @@
                 "open_issues": 5,
                 "owner": "Dreemurr-T",
                 "repo": "BAID",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1414,11 +1414,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T20:51:54Z",
+                "last_commit": "2026-09-03T08:28:07Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38680,
+                "stars": 38689,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2467,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:21:32.176Z",
+    "last_updated": "2026-09-03T21:24:06.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
