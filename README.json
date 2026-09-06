@@ -470,13 +470,25 @@
                 "homepage": "https://shreshthsaini.github.io/Beyond8Bits/",
                 "id": 1169698308,
                 "language": "HTML",
-                "license": null,
-                "last_commit": "2026-06-23T00:07:45Z",
+                "license": "CC-BY-4.0",
+                "last_commit": "2026-09-06T17:49:42Z",
                 "open_issues": 0,
                 "owner": "shreshthsaini",
                 "repo": "Beyond8Bits",
                 "stars": 10,
-                "topics": []
+                "topics": [
+                  "benchmark",
+                  "cvpr-2026",
+                  "dataset",
+                  "grpo",
+                  "hdr",
+                  "multimodal-llm",
+                  "reinforcement-learning",
+                  "subjective-study",
+                  "user-generated-content",
+                  "video-quality-assessment",
+                  "vqa"
+                ]
               },
               "first_seen": "2026-08-30T21:38:16.250Z"
             },
@@ -606,7 +618,7 @@
                 "open_issues": 7,
                 "owner": "yuvalkirstain",
                 "repo": "PickScore",
-                "stars": 604,
+                "stars": 605,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -781,7 +793,7 @@
                 "open_issues": 8,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 221,
+                "stars": 222,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -1418,7 +1430,7 @@
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38692,
+                "stars": 38697,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2467,7 +2479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:44:26.665Z",
+    "last_updated": "2026-09-06T20:52:09.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2476,7 +2488,7 @@
       "language": "TeX",
       "license": "MIT",
       "last_commit": "2026-08-30T11:56:31Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
       "stars": 1538,
