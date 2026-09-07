@@ -148,6 +148,27 @@
             },
             {
               "node_type": "item",
+              "title": "Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback",
+              "description": ", Zhang et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of:  Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback",
+                "homepage": null,
+                "id": 1259348406,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-11T12:22:51Z",
+                "open_issues": 1,
+                "owner": "nianbai006",
+                "repo": "SDG",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-09-07T21:48:04.397Z"
+            },
+            {
+              "node_type": "item",
               "title": "Enhancing image quality prediction with self-supervised visual masking",
               "description": ", Uğur et al. Github | Project | Bibtex",
               "children": [],
@@ -471,7 +492,7 @@
                 "id": 1169698308,
                 "language": "HTML",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-06T17:49:42Z",
+                "last_commit": "2026-09-07T07:06:22Z",
                 "open_issues": 0,
                 "owner": "shreshthsaini",
                 "repo": "Beyond8Bits",
@@ -592,7 +613,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1702,
+                "stars": 1703,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -951,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3383,
+                "stars": 3384,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1426,11 +1447,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T08:28:07Z",
+                "last_commit": "2026-09-07T16:12:34Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38697,
+                "stars": 38708,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1476,7 +1497,7 @@
                 "open_issues": 36,
                 "owner": "SSL92",
                 "repo": "hyperIQA",
-                "stars": 434,
+                "stars": 435,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -2479,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:52:09.283Z",
+    "last_updated": "2026-09-07T21:48:04.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2487,8 +2508,8 @@
       "id": 432720250,
       "language": "TeX",
       "license": "MIT",
-      "last_commit": "2026-08-30T11:56:31Z",
-      "open_issues": 8,
+      "last_commit": "2026-09-07T01:03:10Z",
+      "open_issues": 7,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
       "stars": 1538,
@@ -2501,7 +2522,7 @@
         "iqa-dataset"
       ]
     },
-    "original_repository_sha": "2d767cc75821c8b781ac681c804fd39e196d058f",
+    "original_repository_sha": "8d83932170af39bffbb47d7e1d98607082762294",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
     "enhanced_repository_description": null,
     "title": "Awesome Image Quality Assessment (IQA) with stars"
