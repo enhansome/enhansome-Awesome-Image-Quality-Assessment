@@ -814,7 +814,7 @@
                 "open_issues": 8,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -972,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3388,
+                "stars": 3390,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1451,7 +1451,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38723,
+                "stars": 38737,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:13:55.408Z",
+    "last_updated": "2026-09-11T21:21:21.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
