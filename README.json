@@ -211,7 +211,7 @@
                 "open_issues": 6,
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -613,7 +613,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1704,
+                "stars": 1705,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -814,7 +814,7 @@
                 "open_issues": 8,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 225,
+                "stars": 227,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -1448,10 +1448,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T00:21:25Z",
-                "open_issues": 1992,
+                "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38750,
+                "stars": 38759,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2155,7 +2155,7 @@
                     "open_issues": 2,
                     "owner": "SonyResearch",
                     "repo": "IISA",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "biqa",
                       "blind-image-quality-assessment",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:08:38.793Z",
+    "last_updated": "2026-09-14T22:07:01.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2508,11 +2508,11 @@
       "id": 432720250,
       "language": "TeX",
       "license": "MIT",
-      "last_commit": "2026-09-07T01:03:10Z",
-      "open_issues": 8,
+      "last_commit": "2026-09-14T03:33:00Z",
+      "open_issues": 7,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
-      "stars": 1538,
+      "stars": 1540,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2522,7 +2522,7 @@
         "iqa-dataset"
       ]
     },
-    "original_repository_sha": "8d83932170af39bffbb47d7e1d98607082762294",
+    "original_repository_sha": "e6d869e53cfbb43ece7b7238c7a05d3a0b98828c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
     "enhanced_repository_description": null,
     "title": "Awesome Image Quality Assessment (IQA) with stars"
