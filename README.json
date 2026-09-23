@@ -814,7 +814,7 @@
                 "open_issues": 8,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 231,
+                "stars": 230,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -1028,7 +1028,7 @@
                 "open_issues": 0,
                 "owner": "zwx8981",
                 "repo": "LIQE",
-                "stars": 243,
+                "stars": 244,
                 "topics": [
                   "blind-image-quality-assessment",
                   "clip",
@@ -1447,11 +1447,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T21:46:37Z",
-                "open_issues": 1995,
+                "last_commit": "2026-09-23T12:02:29Z",
+                "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38814,
+                "stars": 38821,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T21:41:11.966Z",
+    "last_updated": "2026-09-23T21:49:46.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
