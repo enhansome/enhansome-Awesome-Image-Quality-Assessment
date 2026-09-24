@@ -1377,7 +1377,7 @@
                 "open_issues": 14,
                 "owner": "IIGROUP",
                 "repo": "MANIQA",
-                "stars": 433,
+                "stars": 432,
                 "topics": [
                   "csiq",
                   "cvpr2022",
@@ -1447,11 +1447,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T12:02:29Z",
+                "last_commit": "2026-09-23T21:53:54Z",
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38821,
+                "stars": 38828,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T21:49:46.371Z",
+    "last_updated": "2026-09-24T21:51:20.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
