@@ -713,7 +713,7 @@
                 "open_issues": 13,
                 "owner": "Yushi-Hu",
                 "repo": "tifa",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "image-to-text",
                   "large-language-models",
@@ -972,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3397,
+                "stars": 3398,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1217,7 +1217,7 @@
                 "open_issues": 2,
                 "owner": "sxfly99",
                 "repo": "FGResQ",
-                "stars": 43,
+                "stars": 42,
                 "topics": [
                   "debluring",
                   "dehazing",
@@ -1451,7 +1451,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38828,
+                "stars": 38834,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:51:20.671Z",
+    "last_updated": "2026-09-25T21:51:24.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
