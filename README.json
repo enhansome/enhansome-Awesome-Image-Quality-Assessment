@@ -70,7 +70,7 @@
             "open_issues": 6,
             "owner": "weizhou-geek",
             "repo": "Image-Quality-Assessment-Benchmark",
-            "stars": 364,
+            "stars": 363,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:40.215Z"
@@ -814,7 +814,7 @@
                 "open_issues": 9,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 230,
+                "stars": 231,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -972,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3398,
+                "stars": 3401,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1004,7 +1004,7 @@
                 "open_issues": 24,
                 "owner": "IceClear",
                 "repo": "CLIP-IQA",
-                "stars": 497,
+                "stars": 498,
                 "topics": [
                   "clip",
                   "iqa"
@@ -1451,7 +1451,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38832,
+                "stars": 38839,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1633,7 +1633,7 @@
                 "open_issues": 0,
                 "owner": "zwx8981",
                 "repo": "UNIQUE",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "blind-image-quality-assessment",
                   "deep-neural-networks",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T21:39:49.554Z",
+    "last_updated": "2026-09-28T23:33:28.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
