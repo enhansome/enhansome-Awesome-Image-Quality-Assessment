@@ -211,7 +211,7 @@
                 "open_issues": 6,
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -613,7 +613,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1705,
+                "stars": 1704,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -839,7 +839,7 @@
                 "open_issues": 7,
                 "owner": "PKU-ICST-MIPL",
                 "repo": "Venus_CVPR2026",
-                "stars": 156,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -972,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3402,
+                "stars": 3403,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1451,7 +1451,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38856,
+                "stars": 38859,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1771,7 +1771,7 @@
                 "open_issues": 24,
                 "owner": "yunxiaoshi",
                 "repo": "Neural-IMage-Assessment",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:39:22.448Z",
+    "last_updated": "2026-10-01T22:55:54.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
