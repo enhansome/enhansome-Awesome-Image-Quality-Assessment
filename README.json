@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:36:46.995Z",
+    "last_updated": "2026-10-03T04:26:07.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2512,7 +2512,7 @@
       "open_issues": 7,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
-      "stars": 1542,
+      "stars": 1543,
       "topics": [
         "awesome",
         "awesome-list",
