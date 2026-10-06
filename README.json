@@ -713,7 +713,7 @@
                 "open_issues": 13,
                 "owner": "Yushi-Hu",
                 "repo": "tifa",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "image-to-text",
                   "large-language-models",
@@ -972,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3404,
+                "stars": 3405,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1451,7 +1451,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38871,
+                "stars": 38873,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T21:59:00.730Z",
+    "last_updated": "2026-10-06T00:22:55.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
