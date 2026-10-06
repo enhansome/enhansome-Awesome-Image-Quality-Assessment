@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-21T17:35:19Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
             "stars": 464,
@@ -67,7 +67,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-10T16:16:47Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "weizhou-geek",
             "repo": "Image-Quality-Assessment-Benchmark",
             "stars": 363,
@@ -1451,7 +1451,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38873,
+                "stars": 38874,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2500,7 +2500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:22:55.313Z",
+    "last_updated": "2026-10-06T10:31:43.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2509,7 +2509,7 @@
       "language": "TeX",
       "license": "MIT",
       "last_commit": "2026-09-22T09:09:27Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
       "stars": 1543,
