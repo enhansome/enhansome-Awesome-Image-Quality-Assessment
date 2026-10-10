@@ -492,7 +492,7 @@
                 "id": 1169698308,
                 "language": "HTML",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-07T07:06:22Z",
+                "last_commit": "2026-10-10T00:46:58Z",
                 "open_issues": 0,
                 "owner": "shreshthsaini",
                 "repo": "Beyond8Bits",
@@ -613,7 +613,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1705,
+                "stars": 1706,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -713,7 +713,7 @@
                 "open_issues": 13,
                 "owner": "Yushi-Hu",
                 "repo": "tifa",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "image-to-text",
                   "large-language-models",
@@ -814,7 +814,7 @@
                 "open_issues": 9,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -839,7 +839,7 @@
                 "open_issues": 7,
                 "owner": "PKU-ICST-MIPL",
                 "repo": "Venus_CVPR2026",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -972,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3408,
+                "stars": 3412,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1004,7 +1004,7 @@
                 "open_issues": 24,
                 "owner": "IceClear",
                 "repo": "CLIP-IQA",
-                "stars": 499,
+                "stars": 500,
                 "topics": [
                   "clip",
                   "iqa"
@@ -1447,11 +1447,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:22:43Z",
+                "last_commit": "2026-10-10T14:34:09Z",
                 "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38885,
+                "stars": 38888,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1661,7 +1661,7 @@
                 "open_issues": 3,
                 "owner": "zwx8981",
                 "repo": "DBCNN-PyTorch",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "bilinear-pooling",
                   "biqa",
@@ -1982,7 +1982,7 @@
                 "open_issues": 0,
                 "owner": "shreshthsaini",
                 "repo": "jld",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "computer-vision",
                   "full-reference-iqa",
@@ -2528,7 +2528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:55:53.349Z",
+    "last_updated": "2026-10-10T22:01:30.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
