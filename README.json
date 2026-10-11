@@ -972,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3412,
+                "stars": 3413,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1004,7 +1004,7 @@
                 "open_issues": 24,
                 "owner": "IceClear",
                 "repo": "CLIP-IQA",
-                "stars": 500,
+                "stars": 501,
                 "topics": [
                   "clip",
                   "iqa"
@@ -1448,10 +1448,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T14:34:09Z",
-                "open_issues": 1998,
+                "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38888,
+                "stars": 38897,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2528,7 +2528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:01:30.578Z",
+    "last_updated": "2026-10-11T22:30:56.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
