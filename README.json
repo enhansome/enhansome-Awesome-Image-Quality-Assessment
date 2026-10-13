@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-21T17:35:19Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
             "stars": 464,
@@ -211,7 +211,7 @@
                 "open_issues": 6,
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
-                "stars": 173,
+                "stars": 174,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -271,7 +271,7 @@
                 "open_issues": 2,
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
-                "stars": 285,
+                "stars": 286,
                 "topics": [
                   "gpt-4",
                   "iclr",
@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
-                "stars": 285,
+                "stars": 286,
                 "topics": [
                   "gpt-4",
                   "iclr",
@@ -1028,7 +1028,7 @@
                 "open_issues": 0,
                 "owner": "zwx8981",
                 "repo": "LIQE",
-                "stars": 244,
+                "stars": 245,
                 "topics": [
                   "blind-image-quality-assessment",
                   "clip",
@@ -1447,11 +1447,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T14:34:09Z",
+                "last_commit": "2026-10-12T13:39:16Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38897,
+                "stars": 38902,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2528,7 +2528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:30:56.046Z",
+    "last_updated": "2026-10-13T00:59:47.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
