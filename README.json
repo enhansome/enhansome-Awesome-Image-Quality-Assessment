@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 464,
+            "stars": 463,
             "topics": [
               "awesome",
               "benchmark",
@@ -814,7 +814,7 @@
                 "open_issues": 9,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 234,
+                "stars": 233,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -881,7 +881,7 @@
                 "open_issues": 5,
                 "owner": "Dreemurr-T",
                 "repo": "BAID",
-                "stars": 103,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -972,7 +972,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3414,
+                "stars": 3419,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1098,7 +1098,7 @@
                 "open_issues": 2,
                 "owner": "miccunifi",
                 "repo": "QualiCLIP",
-                "stars": 132,
+                "stars": 133,
                 "topics": [
                   "biqa",
                   "blind-image-quality-assessment",
@@ -1217,7 +1217,7 @@
                 "open_issues": 2,
                 "owner": "sxfly99",
                 "repo": "FGResQ",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "debluring",
                   "dehazing",
@@ -1447,11 +1447,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T06:27:55Z",
+                "last_commit": "2026-10-14T21:40:54Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38909,
+                "stars": 38915,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2528,7 +2528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:08:02.436Z",
+    "last_updated": "2026-10-14T21:57:49.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
