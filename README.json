@@ -106,6 +106,149 @@
           "children": [
             {
               "node_type": "item",
+              "title": "IQA-T1: Tool-based Visual Evidence Reasoning for Image Quality Assessment",
+              "description": ", Wu et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository provides the official implementation of IQA-T1 (ECCV 2026), which introduces a tool-based visual evidence reasoning for image quality assessment.",
+                "homepage": null,
+                "id": 1283290346,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-20T07:56:22Z",
+                "open_issues": 1,
+                "owner": "zibuyu-02",
+                "repo": "IQA-T1",
+                "stars": 245,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning",
+              "description": ", Liang et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The source code for \"Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning\" (ECCV26)",
+                "homepage": null,
+                "id": 1340560211,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-14T06:38:44Z",
+                "open_issues": 0,
+                "owner": "EthanLiang99",
+                "repo": "Zoom-IQA",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Tool-IQA: Augmenting Image Quality Assessment with Simple Tools",
+              "description": ", Qin et al. Github (inference code and weights; training pending) | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1259051179,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-17T06:15:24Z",
+                "open_issues": 0,
+                "owner": "narthchin",
+                "repo": "Tool-IQA",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PACE: An Evolutionary Agentic Approach for Open-ended Image Quality Perception",
+              "description": ", Tang et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PACE: Perceptual Agentic Collaborative Evolution",
+                "homepage": null,
+                "id": 1375857681,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-23T01:18:39Z",
+                "open_issues": 0,
+                "owner": "2kxx",
+                "repo": "PACE",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360° Image Quality Assessment",
+              "description": ", Wang et al. Github (coming soon) | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official CVPR 2026 implementation of RL-ScanIQA for blind 360-degree image quality assessment (pp. 37401-37412).",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_RL-ScanIQA_Reinforcement-Learned_Scanpaths_for_Blind_360deg_Image_Quality_Assessment_CVPR_2026_paper.html",
+                "id": 1181498509,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-06T02:34:38Z",
+                "open_issues": 0,
+                "owner": "wangyuji1",
+                "repo": "RLScanIQA",
+                "stars": 0,
+                "topics": [
+                  "360-images",
+                  "computer-vision",
+                  "cvpr-2026",
+                  "dinov2",
+                  "image-quality-assessment",
+                  "ppo",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "scanpath"
+                ]
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            }
+          ],
+          "description": "Agentic methods that use visual evidence and specialist tools for image and video quality assessment",
+          "node_type": "group",
+          "title": "Agentic IQA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Grounding-IQA: Grounding Multimodal Language Model for Image Quality Assessment",
+              "description": ", Chen et al. Github (partial release) | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR'26] \"Grounding-IQA: Grounding Multimodal Language Model for Image Quality Assessment\"",
+                "homepage": null,
+                "id": 893967939,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-05-20T07:15:22Z",
+                "open_issues": 5,
+                "owner": "zhengchen1999",
+                "repo": "Grounding-IQA",
+                "stars": 68,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
               "title": "SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning",
               "description": ", Chen et al. Github | Bibtex",
               "children": [],
@@ -197,7 +340,34 @@
           "children": [
             {
               "node_type": "item",
-              "title": "UniPercept: A Unified Perceptual Framework for Multi-task Image Quality Assessment",
+              "title": "Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels",
+              "description": ", Wu et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "③[ICML2024] [IQA, IAA, VQA] All-in-one Foundation Model for visual scoring. Can efficiently fine-tune to downstream datasets.",
+                "homepage": "https://q-align.github.io",
+                "id": 731421488,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-24T06:17:02Z",
+                "open_issues": 20,
+                "owner": "Q-Future",
+                "repo": "Q-Align",
+                "stars": 628,
+                "topics": [
+                  "aesthetic",
+                  "aesthetic-assessment",
+                  "aesthetic-visual-analysis",
+                  "image-quality-assessment",
+                  "video-quality-assessment"
+                ]
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture",
               "description": ", et al. Github | Bibtex",
               "children": [],
               "repo_info": {
@@ -229,24 +399,24 @@
             },
             {
               "node_type": "item",
-              "title": "Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels",
-              "description": ", Wu et al. Github | Bibtex",
+              "title": "PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts",
+              "description": ", Chen et al. Github | Bibtex",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[ECCV 2024] Official Pytorch Implementation of A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment",
+                "description": "The public code for \"PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts\"",
                 "homepage": null,
-                "id": 772842204,
+                "id": 770135632,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2024-07-20T11:17:20Z",
-                "open_issues": 1,
-                "owner": "TianheWu",
-                "repo": "MLLMs-for-IQA",
-                "stars": 94,
+                "last_commit": "2025-02-28T08:25:32Z",
+                "open_issues": 0,
+                "owner": "chencn2020",
+                "repo": "PromptIQA",
+                "stars": 30,
                 "topics": []
               },
-              "first_seen": "2026-08-29T01:55:40.215Z"
+              "first_seen": "2026-10-15T21:50:16.413Z"
             }
           ],
           "description": "All IQA types unified in a single model",
@@ -257,7 +427,30 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs",
+              "title": "Q-Insight: Understanding Image Quality via Visual Reinforcement Learning",
+              "description": ", Li et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Q-Insight Family: Q-Insight, VQ-Insight and RALI (NeurIPS 2025 Spotlight, AAAI 2026 Oral, and ICLR 2026 Oral)",
+                "homepage": null,
+                "id": 992438855,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-03T05:18:53Z",
+                "open_issues": 10,
+                "owner": "bytedance",
+                "repo": "Q-Insight",
+                "stars": 325,
+                "topics": [
+                  "research"
+                ]
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Q-BENCH: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs",
               "description": ", Zhang et al. Github | Bibtex",
               "children": [],
               "repo_info": {
@@ -271,7 +464,7 @@
                 "open_issues": 2,
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
-                "stars": 286,
+                "stars": 285,
                 "topics": [
                   "gpt-4",
                   "iclr",
@@ -333,7 +526,7 @@
             },
             {
               "node_type": "item",
-              "title": "Descriptive Image Quality Assessment in the Wild",
+              "title": "Enhancing Descriptive Image Quality Assessment with A Large-scale Multi-modal Dataset",
               "description": ", You et al. Github | Project | Bibtex",
               "children": [],
               "repo_info": {
@@ -368,28 +561,28 @@
                 "open_issues": 9,
                 "owner": "TianheWu",
                 "repo": "VisualQuality-R1",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
-              "title": "Q-Insight: Understanding Image Quality via Visual Reinforcement Learning",
-              "description": ", Li et al. Github | Bibtex",
+              "title": "A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment",
+              "description": ", Wu et al. Github | Bibtex",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Q-Insight is open-sourced at https://github.com/bytedance/Q-Insight. This repository will not receive further updates.",
+                "description": "[ECCV 2024] Official Pytorch Implementation of A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment",
                 "homepage": null,
-                "id": 956626521,
-                "language": null,
-                "license": "Apache-2.0",
-                "last_commit": "2025-05-30T05:16:51Z",
+                "id": 772842204,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-07-20T11:17:20Z",
                 "open_issues": 1,
-                "owner": "lwq20020127",
-                "repo": "Q-Insight",
-                "stars": 142,
+                "owner": "TianheWu",
+                "repo": "MLLMs-for-IQA",
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -441,7 +634,7 @@
             {
               "node_type": "item",
               "title": "Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment",
-              "description": ", Xie et al. Github | Bibtex",
+              "description": ", Xie et al. Github (training code; inference pending) | Bibtex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -479,6 +672,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Self-Evolving Vision-Language Models for Image Quality Assessment via Voting and Ranking",
+              "description": ", Wen et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-Evolving Vision-Language Models for Image Quality Assessment via Voting and Ranking (ICLR 2026)",
+                "homepage": null,
+                "id": 1250964744,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-11T03:48:10Z",
+                "open_issues": 2,
+                "owner": "bytedance",
+                "repo": "EvoQuality",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
             },
             {
               "node_type": "item",
@@ -683,7 +897,7 @@
                 "open_issues": 2,
                 "owner": "Q-Future",
                 "repo": "Q-Bench",
-                "stars": 286,
+                "stars": 285,
                 "topics": [
                   "gpt-4",
                   "iclr",
@@ -699,7 +913,7 @@
             },
             {
               "node_type": "item",
-              "title": "TIFA: Text-to-Image Faithfulness Evaluation with Question Answering",
+              "title": "TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering",
               "description": ", Hu et al. Github | Bibtex | Project",
               "children": [],
               "repo_info": {
@@ -746,7 +960,7 @@
             },
             {
               "node_type": "item",
-              "title": "A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment",
+              "title": "AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment",
               "description": ", Li et al. Github | Bibtex",
               "children": [],
               "repo_info": {
@@ -888,7 +1102,7 @@
             },
             {
               "node_type": "item",
-              "title": "Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment",
+              "title": "Charm: The Missing Piece in ViT Fine-Tuning for Image Aesthetic Assessment",
               "description": ", Behrad et al. Github | Bibtex",
               "children": [],
               "repo_info": {
@@ -902,10 +1116,31 @@
                 "open_issues": 0,
                 "owner": "FBehrad",
                 "repo": "Charm",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Fine-grained Image Aesthetic Assessment: Learning Discriminative Scores from Relative Ranks",
+              "description": ", Yang et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fine-grained Image Aesthetic Assessment: Learning Discriminative Scores from Relative Ranks (CVPR 2026 Oral)",
+                "homepage": null,
+                "id": 1165288763,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-30T11:24:21Z",
+                "open_issues": 6,
+                "owner": "yzc-ippl",
+                "repo": "FG-IAA",
+                "stars": 44,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
             },
             {
               "node_type": "item",
@@ -958,6 +1193,31 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MUSIQ: Multi-scale Image Quality Transformer",
+              "description": ", NR. Github / Github | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-15T02:18:00Z",
+                "open_issues": 2006,
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38922,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
               "title": "TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment",
               "description": ", Chen et al. Github | Bibtex",
               "children": [],
@@ -968,7 +1228,7 @@
                 "id": 432720685,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T09:00:27Z",
+                "last_commit": "2026-10-15T06:57:39Z",
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
@@ -990,6 +1250,32 @@
             },
             {
               "node_type": "item",
+              "title": "NIMA: Neural Image Assessment",
+              "description": ", NR. Github/Github | Squared EMD loss",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A PyTorch Implementation of Neural IMage Assessment",
+                "homepage": null,
+                "id": 121835729,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2021-11-10T11:36:17Z",
+                "open_issues": 24,
+                "owner": "yunxiaoshi",
+                "repo": "Neural-IMage-Assessment",
+                "stars": 587,
+                "topics": [
+                  "computer-vision",
+                  "image-enhancement",
+                  "machine-learning",
+                  "photo-editing"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
               "title": "Exploring CLIP for Assessing the Look and Feel of Images",
               "description": ", Wang et al. Github | Bibtex",
               "children": [],
@@ -1004,11 +1290,106 @@
                 "open_issues": 24,
                 "owner": "IceClear",
                 "repo": "CLIP-IQA",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "clip",
                   "iqa"
                 ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RankIQA: Learning from Rankings for No-reference Image Quality Assessment",
+              "description": ", NR. Github | Pretrain on synthetically ranked data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The rep for the RankIQA paper in ICCV 2017 ",
+                "homepage": "https://xialeiliu.github.io/RankIQA/",
+                "id": 98201534,
+                "language": "MATLAB",
+                "license": "MIT",
+                "last_commit": "2019-02-19T14:26:08Z",
+                "open_issues": 16,
+                "owner": "xialeiliu",
+                "repo": "RankIQA",
+                "stars": 451,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blindly Assess Image Quality in the Wild Guided by a Self-Adaptive Hyper Network",
+              "description": ", HyperIQA, NR. Github | Content-aware hyper network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Source code for the CVPR'20 paper \"Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network\"",
+                "homepage": null,
+                "id": 245560005,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-12-14T09:29:58Z",
+                "open_issues": 36,
+                "owner": "SSL92",
+                "repo": "hyperIQA",
+                "stars": 436,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment",
+              "description": ", NR. Github | Transformer, multi-dimension attention, dual branch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPRW oral 2022] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment",
+                "homepage": null,
+                "id": 480789242,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2023-06-10T10:38:21Z",
+                "open_issues": 14,
+                "owner": "IIGROUP",
+                "repo": "MANIQA",
+                "stars": 431,
+                "topics": [
+                  "csiq",
+                  "cvpr2022",
+                  "deep-learning",
+                  "kadid-10k",
+                  "live",
+                  "nr-iqa",
+                  "pipal",
+                  "pytorch-implementation",
+                  "swintransformer",
+                  "vision-transformer"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "The 2018 PIRM Challenge on Perceptual Image Super-resolution",
+              "description": ", PI, NR. Github | 1/2 * (NIQE + (10 - NRQM)).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Workshop and Challenge on  Perceptual Image Restoration  and Manipulation",
+                "homepage": "https://www.pirm2018.org/",
+                "id": 130463627,
+                "language": "MATLAB",
+                "license": null,
+                "last_commit": "2020-08-26T18:01:37Z",
+                "open_issues": 6,
+                "owner": "roimehrez",
+                "repo": "PIRM2018",
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1037,6 +1418,110 @@
                   "no-reference-image-quality-assessment",
                   "vision-language-model"
                 ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network",
+              "description": ", DBCNN, NR. Github | Two branches for synthetic and authentic distortions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An experimental Pytorch implementation of Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network",
+                "homepage": null,
+                "id": 166771453,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-03-19T14:50:35Z",
+                "open_issues": 3,
+                "owner": "zwx8981",
+                "repo": "DBCNN-PyTorch",
+                "stars": 232,
+                "topics": [
+                  "bilinear-pooling",
+                  "biqa",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "image-quality-assessment",
+                  "iqa",
+                  "python",
+                  "pytorch"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GIQA: Generated Image Quality Assessment",
+              "description": ", NR. Github | Generated image",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pytorch implementation of Generated Image Quality Assessment",
+                "homepage": null,
+                "id": 271158579,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2021-11-20T07:11:48Z",
+                "open_issues": 6,
+                "owner": "cientgu",
+                "repo": "GIQA",
+                "stars": 219,
+                "topics": [
+                  "generative-adversarial-networks",
+                  "generative-model",
+                  "image-quality-assessment"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Convolutional Neural Networks for No-Reference Image Quality Assessment",
+              "description": ", CNNIQA, NR. Github | First CNN-based NR-IQA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[unofficial] CVPR2014-Convolutional neural networks for no-reference image quality assessment",
+                "homepage": null,
+                "id": 130167207,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-11-22T04:48:28Z",
+                "open_issues": 6,
+                "owner": "lidq92",
+                "repo": "CNNIQA",
+                "stars": 167,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "convolutional-neural-networks",
+                  "image-quality-assessment",
+                  "pytorch",
+                  "quality-metrics"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency",
+              "description": ", TReS, NR. Github | Transformer, relative ranking, self-consistency",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency",
+                "homepage": null,
+                "id": 394028829,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2023-02-17T03:34:51Z",
+                "open_issues": 0,
+                "owner": "isalirezag",
+                "repo": "TReS",
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1084,7 +1569,35 @@
             },
             {
               "node_type": "item",
-              "title": "Quality-aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment",
+              "title": "Uncertainty-Aware Blind Image Quality Assessment in the Laboratory and Wild",
+              "description": ", UNIQUE, NR. Github | Combine synthetic and authentic image pairs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The repository for 'Uncertainty-aware blind image quality assessment in the laboratory and wild' and 'Learning to blindly assess image quality in the laboratory and wild'",
+                "homepage": null,
+                "id": 265136808,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-03-08T13:42:03Z",
+                "open_issues": 0,
+                "owner": "zwx8981",
+                "repo": "UNIQUE",
+                "stars": 140,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "deep-neural-networks",
+                  "image-quality-assessment",
+                  "learning-to-rank",
+                  "matlab",
+                  "pytorch"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Quality-Aware Image-Text Alignment for Real-World Image Quality Assessment",
               "description": ", Agnolucci et al. Github | Bibtex",
               "children": [],
               "repo_info": {
@@ -1125,6 +1638,54 @@
             },
             {
               "node_type": "item",
+              "title": "Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment",
+              "description": ", WaDIQaM, NR/FR. Github | Weighted average of patch qualities, shared FR/NR models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[unofficial] Pytorch implementation of WaDIQaM in TIP2018, Bosse S. et al. (Deep neural networks for no-reference and full-reference image quality assessment)",
+                "homepage": null,
+                "id": 130065918,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-03-24T21:54:32Z",
+                "open_issues": 3,
+                "owner": "lidq92",
+                "repo": "WaDIQaM",
+                "stars": 132,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "deep-neural-networks",
+                  "full-reference-iqa",
+                  "image-quality-assessment",
+                  "pytorch"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MetaIQA: Deep Meta-learning for No-Reference Image Quality Assessment",
+              "description": ", NR. Github | Meta-learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 269943832,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2020-10-11T02:26:13Z",
+                "open_issues": 18,
+                "owner": "zhuhancheng",
+                "repo": "MetaIQA",
+                "stars": 128,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
               "title": "Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild",
               "description": ", Saha et al. Bibtex | Github",
               "children": [],
@@ -1156,6 +1717,80 @@
                   "resnet-50",
                   "unsupervised-learning"
                 ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Unsupervised Feature Learning Framework for No-reference Image Quality Assessment",
+              "description": ", CORNIA, NR. Github | Codebook Representation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A benchmark implementation of representative deep BIQA models",
+                "homepage": null,
+                "id": 112996957,
+                "language": "MATLAB",
+                "license": null,
+                "last_commit": "2019-04-08T06:16:19Z",
+                "open_issues": 2,
+                "owner": "HuiZeng",
+                "repo": "BIQA_Toolbox",
+                "stars": 117,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "image-quality-assessment"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Which Has Better Visual Quality: The Clear Blue Sky or a Blurry Animal?",
+              "description": ", SFA, NR. Github | Aggregate ResNet50 features of multiple cropped patches",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[official] No reference image quality assessment based Semantic Feature Aggregation, published in ACM MM 2017, TMM 2019",
+                "homepage": null,
+                "id": 119025388,
+                "language": "MATLAB",
+                "license": "MIT",
+                "last_commit": "2023-10-03T21:38:26Z",
+                "open_issues": 4,
+                "owner": "lidq92",
+                "repo": "SFA",
+                "stars": 82,
+                "topics": [
+                  "blind-image-quality-assessment",
+                  "caffe",
+                  "camera-images",
+                  "image-content-variation",
+                  "image-quality-assessment",
+                  "plsr-model",
+                  "resnet-50"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment",
+              "description": ", CKDN, NR. Github | Degraded reference, Conditional knowledge distillation (related to HIQA)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICCV'21] CKDN: Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment",
+                "homepage": null,
+                "id": 394225149,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-04-09T06:48:29Z",
+                "open_issues": 6,
+                "owner": "researchmm",
+                "repo": "CKDN",
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -1300,6 +1935,134 @@
             },
             {
               "node_type": "item",
+              "title": "Making a “Completely Blind” Image Quality Analyzer",
+              "description": ", NIQE, NR. Github | Traditional",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 330295959,
+                "language": "MATLAB",
+                "license": null,
+                "last_commit": "2021-10-26T02:37:09Z",
+                "open_issues": 1,
+                "owner": "utlive",
+                "repo": "niqe",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement",
+              "description": ", Xu et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 773568709,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-06-19T08:43:15Z",
+                "open_issues": 3,
+                "owner": "NeosXu",
+                "repo": "LoDa",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
+              "title": "KonIQ++: Boosting No-Reference Image Quality Assessment in the Wild by Jointly Predicting Image Quality and Defects",
+              "description": ", NR. Github | Multi-task with distortion prediction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 419549710,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-11-29T14:15:34Z",
+                "open_issues": 5,
+                "owner": "SSL92",
+                "repo": "koniqplusplus",
+                "stars": 21,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "A Probabilistic Quality Representation Approach to Deep Blind Image Quality Prediction",
+              "description": ", PQR, NR/Aesthetic. Github/Github | Unify different type of aesthetic labels",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Unified Probabilistic Formulation of Image Aesthetic Assessment",
+                "homepage": null,
+                "id": 124345983,
+                "language": "MATLAB",
+                "license": null,
+                "last_commit": "2019-09-18T12:51:23Z",
+                "open_issues": 2,
+                "owner": "HuiZeng",
+                "repo": "Unified_IAA",
+                "stars": 17,
+                "topics": [
+                  "image-aesthetic-assessment"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Perceptual Quality Prediction on Authentically Distorted Images Using a Bag of Features Approach",
+              "description": ", FRIQUEE, NR. Github | Authentically Distorted, Bag of Features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 330295771,
+                "language": "MATLAB",
+                "license": null,
+                "last_commit": "2021-01-17T02:01:48Z",
+                "open_issues": 1,
+                "owner": "utlive",
+                "repo": "FRIQUEE",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "No-reference Image Quality Assessment in the Spatial Domain",
+              "description": ", BRISQUE, NR. Github | Traditional",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 330295643,
+                "language": "MATLAB",
+                "license": null,
+                "last_commit": "2021-12-02T01:02:39Z",
+                "open_issues": 0,
+                "owner": "utlive",
+                "repo": "BRISQUE",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
               "title": "No-Reference Image Quality Assessment by Hallucinating Pristine Features",
               "description": ", Chen et al. Github | Bibtex",
               "children": [],
@@ -1342,491 +2105,50 @@
             },
             {
               "node_type": "item",
-              "title": "Test Time Adaptation for Blind Image Quality Assessment",
-              "description": ", Roy et al. Github | Bibtex",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for Test Time Adaptation in the context of Blind Image Quality Assessment.",
-                "homepage": null,
-                "id": 686976969,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-10-09T09:28:46Z",
-                "open_issues": 0,
-                "owner": "Shankhanil006",
-                "repo": "TTA-IQA",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "IIGROUP/MANIQA",
-              "description": "MANIQA NR CVPRW2022 Transformer, multi-dimension attention, dual branch",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPRW oral 2022] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment",
-                "homepage": null,
-                "id": 480789242,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2023-06-10T10:38:21Z",
-                "open_issues": 14,
-                "owner": "IIGROUP",
-                "repo": "MANIQA",
-                "stars": 431,
-                "topics": [
-                  "csiq",
-                  "cvpr2022",
-                  "deep-learning",
-                  "kadid-10k",
-                  "live",
-                  "nr-iqa",
-                  "pipal",
-                  "pytorch-implementation",
-                  "swintransformer",
-                  "vision-transformer"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "isalirezag/TReS",
-              "description": "TReS NR WACV2022 Transformer, relative ranking, self-consistency",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency",
-                "homepage": null,
-                "id": 394028829,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2023-02-17T03:34:51Z",
-                "open_issues": 0,
-                "owner": "isalirezag",
-                "repo": "TReS",
-                "stars": 163,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "KonIQ++ NR BMVC2021 Official Multi-task with distortion prediction",
+              "title": "Blind Image Quality Assessment: From Natural Scene Statistics to Perceptual Quality",
+              "description": ", DIIVINE, NR. Github",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": null,
                 "homepage": null,
-                "id": 419549710,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-11-29T14:15:34Z",
-                "open_issues": 5,
-                "owner": "SSL92",
-                "repo": "koniqplusplus",
-                "stars": 21,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "google-research/google-research",
-              "description": "/ Pytorch MUSIQ NR ICCV2021 Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Google Research",
-                "homepage": "https://research.google",
-                "id": 151619717,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:40:54Z",
-                "open_issues": 2005,
-                "owner": "google-research",
-                "repo": "google-research",
-                "stars": 38915,
-                "topics": [
-                  "ai",
-                  "machine-learning",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "researchmm/CKDN",
-              "description": "CKDN NR ICCV2021 Degraded reference, Conditional knowledge distillation (related to HIQA)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICCV'21] CKDN: Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment",
-                "homepage": null,
-                "id": 394225149,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-04-09T06:48:29Z",
-                "open_issues": 6,
-                "owner": "researchmm",
-                "repo": "CKDN",
-                "stars": 59,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "HyperIQA NR CVPR2020 Official Content-aware hyper network",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Source code for the CVPR'20 paper \"Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network\"",
-                "homepage": null,
-                "id": 245560005,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-12-14T09:29:58Z",
-                "open_issues": 36,
-                "owner": "SSL92",
-                "repo": "hyperIQA",
-                "stars": 436,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "zhuhancheng/MetaIQA",
-              "description": "Meta-IQA NR CVPR2020 Meta-learning",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 269943832,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2020-10-11T02:26:13Z",
-                "open_issues": 18,
-                "owner": "zhuhancheng",
-                "repo": "MetaIQA",
-                "stars": 128,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cientgu/GIQA",
-              "description": "GIQA NR ECCV2020 Generated image",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Pytorch implementation of Generated Image Quality Assessment",
-                "homepage": null,
-                "id": 271158579,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2021-11-20T07:11:48Z",
-                "open_issues": 6,
-                "owner": "cientgu",
-                "repo": "GIQA",
-                "stars": 219,
-                "topics": [
-                  "generative-adversarial-networks",
-                  "generative-model",
-                  "image-quality-assessment"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "roimehrez/PIRM2018",
-              "description": "PI NR 2018 PIRM Challenge 1/2 * (NIQE + (10 - NRQM)).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Workshop and Challenge on  Perceptual Image Restoration  and Manipulation",
-                "homepage": "https://www.pirm2018.org/",
-                "id": 130463627,
+                "id": 330295755,
                 "language": "MATLAB",
                 "license": null,
-                "last_commit": "2020-08-26T18:01:37Z",
-                "open_issues": 6,
-                "owner": "roimehrez",
-                "repo": "PIRM2018",
-                "stars": 247,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "xialeiliu/RankIQA",
-              "description": "RankIQA NR ICCV2017 Pretrain on synthetically ranked data",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The rep for the RankIQA paper in ICCV 2017 ",
-                "homepage": "https://xialeiliu.github.io/RankIQA/",
-                "id": 98201534,
-                "language": "MATLAB",
-                "license": "MIT",
-                "last_commit": "2019-02-19T14:26:08Z",
-                "open_issues": 16,
-                "owner": "xialeiliu",
-                "repo": "RankIQA",
-                "stars": 451,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "CNNIQA NR CVPR2014 PyTorch First CNN-based NR-IQA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[unofficial] CVPR2014-Convolutional neural networks for no-reference image quality assessment",
-                "homepage": null,
-                "id": 130167207,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-11-22T04:48:28Z",
-                "open_issues": 6,
-                "owner": "lidq92",
-                "repo": "CNNIQA",
-                "stars": 167,
-                "topics": [
-                  "blind-image-quality-assessment",
-                  "convolutional-neural-networks",
-                  "image-quality-assessment",
-                  "pytorch",
-                  "quality-metrics"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "zwx8981/UNIQUE",
-              "description": "UNIQUE NR TIP2021 Combine synthetic and authentic image pairs",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The repository for 'Uncertainty-aware blind image quality assessment in the laboratory and wild' and 'Learning to blindly assess image quality in the laboratory and wild'",
-                "homepage": null,
-                "id": 265136808,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-03-08T13:42:03Z",
-                "open_issues": 0,
-                "owner": "zwx8981",
-                "repo": "UNIQUE",
-                "stars": 140,
-                "topics": [
-                  "blind-image-quality-assessment",
-                  "deep-neural-networks",
-                  "image-quality-assessment",
-                  "learning-to-rank",
-                  "matlab",
-                  "pytorch"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "zwx8981/DBCNN-PyTorch",
-              "description": "DBCNN NR TCSVT2020 Two branches for synthetic and authentic distortions",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An experimental Pytorch implementation of Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network",
-                "homepage": null,
-                "id": 166771453,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-03-19T14:50:35Z",
-                "open_issues": 3,
-                "owner": "zwx8981",
-                "repo": "DBCNN-PyTorch",
-                "stars": 232,
-                "topics": [
-                  "bilinear-pooling",
-                  "biqa",
-                  "convolutional-neural-networks",
-                  "deep-learning",
-                  "deep-neural-networks",
-                  "image-quality-assessment",
-                  "iqa",
-                  "python",
-                  "pytorch"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "SFA NR TMM2019 Official Aggregate ResNet50 features of multiple cropped patches",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[official] No reference image quality assessment based Semantic Feature Aggregation, published in ACM MM 2017, TMM 2019",
-                "homepage": null,
-                "id": 119025388,
-                "language": "MATLAB",
-                "license": "MIT",
-                "last_commit": "2023-10-03T21:38:26Z",
-                "open_issues": 4,
-                "owner": "lidq92",
-                "repo": "SFA",
-                "stars": 82,
-                "topics": [
-                  "blind-image-quality-assessment",
-                  "caffe",
-                  "camera-images",
-                  "image-content-variation",
-                  "image-quality-assessment",
-                  "plsr-model",
-                  "resnet-50"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "/arXiv PQR NR/Aesthetic TIP2019 Official1/Official2 Unify different type of aesthetic labels",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Unified Probabilistic Formulation of Image Aesthetic Assessment",
-                "homepage": null,
-                "id": 124345983,
-                "language": "MATLAB",
-                "license": null,
-                "last_commit": "2019-09-18T12:51:23Z",
+                "last_commit": "2021-05-24T11:58:46Z",
                 "open_issues": 2,
-                "owner": "HuiZeng",
-                "repo": "Unified_IAA",
-                "stars": 17,
-                "topics": [
-                  "image-aesthetic-assessment"
-                ]
+                "owner": "utlive",
+                "repo": "DIIVINE",
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
             {
               "node_type": "item",
-              "title": "PyTorch",
-              "description": "WaDIQaM (deepIQA) NR/FR TIP2018 Weighted average of patch qualities, shared FR/NR models",
+              "title": "QMamba: On First Exploration of Vision Mamba for Image Quality Assessment",
+              "description": ", Guan et al. Github | Bibtex",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[unofficial] Pytorch implementation of WaDIQaM in TIP2018, Bosse S. et al. (Deep neural networks for no-reference and full-reference image quality assessment)",
+                "description": "The code implementation of the paper QMamba: On First Exploration of Vision Mamba for Image Quality Assessment (ICML 2025).",
                 "homepage": null,
-                "id": 130065918,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-03-24T21:54:32Z",
+                "id": 991430966,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2025-05-28T14:06:16Z",
                 "open_issues": 3,
-                "owner": "lidq92",
-                "repo": "WaDIQaM",
-                "stars": 132,
-                "topics": [
-                  "blind-image-quality-assessment",
-                  "deep-neural-networks",
-                  "full-reference-iqa",
-                  "image-quality-assessment",
-                  "pytorch"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "NIMA NR TIP2018 PyTorch/Tensorflow Squared EMD loss",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A PyTorch Implementation of Neural IMage Assessment",
-                "homepage": null,
-                "id": 121835729,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2021-11-10T11:36:17Z",
-                "open_issues": 24,
-                "owner": "yunxiaoshi",
-                "repo": "Neural-IMage-Assessment",
-                "stars": 587,
-                "topics": [
-                  "computer-vision",
-                  "image-enhancement",
-                  "machine-learning",
-                  "photo-editing"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "utlive/FRIQUEE",
-              "description": "FRIQUEE NR JoV2017 Authentically Distorted, Bag of Features",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 330295771,
-                "language": "MATLAB",
-                "license": null,
-                "last_commit": "2021-01-17T02:01:48Z",
-                "open_issues": 1,
-                "owner": "utlive",
-                "repo": "FRIQUEE",
-                "stars": 17,
+                "owner": "bingo-G",
+                "repo": "QMamba",
+                "stars": 7,
                 "topics": []
               },
-              "first_seen": "2026-08-29T01:55:40.215Z"
+              "first_seen": "2026-10-15T21:50:16.413Z"
             },
             {
               "node_type": "item",
-              "title": "pdf",
-              "description": "BRISQUE NR TIP2012 Official Traditional",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 330295643,
-                "language": "MATLAB",
-                "license": null,
-                "last_commit": "2021-12-02T01:02:39Z",
-                "open_issues": 0,
-                "owner": "utlive",
-                "repo": "BRISQUE",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "BLIINDS-II NR TIP2012 Official",
+              "title": "Blind Image Quality Assessment: A Natural Scene Statistics Approach in the DCT Domain",
+              "description": ", BLIINDS-II, NR. Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1846,66 +2168,21 @@
             },
             {
               "node_type": "item",
-              "title": "pdf",
-              "description": "CORNIA NR CVPR2012 Matlab download Codebook Representation",
+              "title": "Test Time Adaptation for Blind Image Quality Assessment",
+              "description": ", Roy et al. Github | Bibtex",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A benchmark implementation of representative deep BIQA models",
+                "description": "Code for Test Time Adaptation in the context of Blind Image Quality Assessment.",
                 "homepage": null,
-                "id": 112996957,
-                "language": "MATLAB",
-                "license": null,
-                "last_commit": "2019-04-08T06:16:19Z",
-                "open_issues": 2,
-                "owner": "HuiZeng",
-                "repo": "BIQA_Toolbox",
-                "stars": 117,
-                "topics": [
-                  "blind-image-quality-assessment",
-                  "image-quality-assessment"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "NIQE NR SPL2012 Official Traditional",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 330295959,
-                "language": "MATLAB",
-                "license": null,
-                "last_commit": "2021-10-26T02:37:09Z",
-                "open_issues": 1,
-                "owner": "utlive",
-                "repo": "niqe",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pdf",
-              "description": "DIIVINE NR TIP2011 Official",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 330295755,
-                "language": "MATLAB",
-                "license": null,
-                "last_commit": "2021-05-24T11:58:46Z",
-                "open_issues": 2,
-                "owner": "utlive",
-                "repo": "DIIVINE",
-                "stars": 10,
+                "id": 686976969,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-10-09T09:28:46Z",
+                "open_issues": 0,
+                "owner": "Shankhanil006",
+                "repo": "TTA-IQA",
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1919,190 +2196,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Shift-tolerant Perceptual Similarity Metric",
-              "description": ", Ghildyal et al. Github | Bibtex",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2022] We investigated a broad range of neural network elements and developed a robust perceptual similarity metric. Our shift-tolerant perceptual similarity metric (ST-LPIPS) is consistent with human perception and is less susceptible to imperceptible misalignments between two images than existing metrics.",
-                "homepage": null,
-                "id": 523211102,
-                "language": "Python",
-                "license": "BSD-2-Clause",
-                "last_commit": "2024-05-21T23:35:28Z",
-                "open_issues": 0,
-                "owner": "abhijay9",
-                "repo": "ShiftTolerant-LPIPS",
-                "stars": 44,
-                "topics": [
-                  "full-reference-image-quality-assessment",
-                  "full-reference-iqa",
-                  "image-quality-assessment",
-                  "iqa",
-                  "ml-robustness",
-                  "perceptual-similarity"
-                ]
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity",
-              "description": ", Zhou et al. Github | Bibtex",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Demo code of ACMMM 2022 \"Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity\"",
-                "homepage": null,
-                "id": 512933159,
-                "language": "MATLAB",
-                "license": "MIT",
-                "last_commit": "2022-10-13T05:11:35Z",
-                "open_issues": 3,
-                "owner": "weizhou-geek",
-                "repo": "SRIF",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "JLD: Perceptual Distance Through A Jacobian Lens",
-              "description": ", Saini et al. Github | Project | Bibtex",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "JLD: Perceptual Distance through a Jacobian Lens. A label-free full-reference perceptual distance from a frozen vision encoder.",
-                "homepage": "https://shreshthsaini.github.io/jld/",
-                "id": 1391575839,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-07T07:24:38Z",
-                "open_issues": 0,
-                "owner": "shreshthsaini",
-                "repo": "jld",
-                "stars": 3,
-                "topics": [
-                  "computer-vision",
-                  "full-reference-iqa",
-                  "image-quality-assessment",
-                  "jacobian",
-                  "perceptual-similarity",
-                  "pytorch"
-                ]
-              },
-              "first_seen": "2026-10-08T23:34:37.202Z"
-            },
-            {
-              "node_type": "item",
-              "title": "IIGROUP/AHIQ",
-              "description": "AHIQ FR CVPR2022 NTIRE workshop Attention, Transformer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPRW 2022] Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network",
-                "homepage": null,
-                "id": 482758292,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-07-17T03:53:08Z",
-                "open_issues": 11,
-                "owner": "IIGROUP",
-                "repo": "AHIQ",
-                "stars": 87,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "happycaoyue/JSPL",
-              "description": "JSPL FR CVPR2022 semi-supervised and positive-unlabeled (PU) learning",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 473700157,
-                "language": null,
-                "license": null,
-                "last_commit": "2022-03-24T17:06:34Z",
-                "open_issues": 8,
-                "owner": "happycaoyue",
-                "repo": "JSPL",
-                "stars": 17,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "guanghaoyin/CVRKD-IQA",
-              "description": "CVRKD NAR AAAI2022 Non-Aligned content reference, knowledge distillation",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Pytorch code for our AAAI2022 Oral paper \"Content-Variant Reference Image Quality Assessment via Knowledge Distillation\"",
-                "homepage": null,
-                "id": 435713391,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-05-05T02:44:21Z",
-                "open_issues": 3,
-                "owner": "guanghaoyin",
-                "repo": "CVRKD-IQA",
-                "stars": 59,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PyTorch",
-              "description": "IQT FR CVPRW2021 Transformer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Unofficial implementation of CVPR2021 paper \"Perceptual Image Quality Assessment with Transformers\"",
-                "homepage": null,
-                "id": 419550846,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2021-10-21T02:41:02Z",
-                "open_issues": 11,
-                "owner": "anse3832",
-                "repo": "IQT",
-                "stars": 75,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dingkeyan93/A-DISTS",
-              "description": "A-DISTS FR ACMM2021",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Locally Adaptive DISTS",
-                "homepage": null,
-                "id": 387637634,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-03-07T05:33:51Z",
-                "open_issues": 1,
-                "owner": "dingkeyan93",
-                "repo": "A-DISTS",
-                "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dingkeyan93/DISTS",
-              "description": "DISTS FR TPAMI2021",
+              "title": "Image Quality Assessment: Unifying Structure and Texture Similarity",
+              "description": ", DISTS, FR. Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2133,8 +2228,8 @@
             },
             {
               "node_type": "item",
-              "title": "lidq92/WaDIQaM",
-              "description": "WaDIQaM NR/FR TIP2018",
+              "title": "Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment",
+              "description": ", WaDIQaM, NR/FR. Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2157,6 +2252,188 @@
                 ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network",
+              "description": ", AHIQ, FR. Github | Attention, Transformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPRW 2022] Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network",
+                "homepage": null,
+                "id": 482758292,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-07-17T03:53:08Z",
+                "open_issues": 11,
+                "owner": "IIGROUP",
+                "repo": "AHIQ",
+                "stars": 87,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Perceptual Image Quality Assessment with Transformers",
+              "description": ", IQT, FR. Github | Transformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Unofficial implementation of CVPR2021 paper \"Perceptual Image Quality Assessment with Transformers\"",
+                "homepage": null,
+                "id": 419550846,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2021-10-21T02:41:02Z",
+                "open_issues": 11,
+                "owner": "anse3832",
+                "repo": "IQT",
+                "stars": 75,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Content-Variant Reference Image Quality Assessment via Knowledge Distillation",
+              "description": ", CVRKD, NAR. Github | Non-Aligned content reference, knowledge distillation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pytorch code for our AAAI2022 Oral paper \"Content-Variant Reference Image Quality Assessment via Knowledge Distillation\"",
+                "homepage": null,
+                "id": 435713391,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-05-05T02:44:21Z",
+                "open_issues": 3,
+                "owner": "guanghaoyin",
+                "repo": "CVRKD-IQA",
+                "stars": 59,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Shift-tolerant Perceptual Similarity Metric",
+              "description": ", Ghildyal et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2022] We investigated a broad range of neural network elements and developed a robust perceptual similarity metric. Our shift-tolerant perceptual similarity metric (ST-LPIPS) is consistent with human perception and is less susceptible to imperceptible misalignments between two images than existing metrics.",
+                "homepage": null,
+                "id": 523211102,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2024-05-21T23:35:28Z",
+                "open_issues": 0,
+                "owner": "abhijay9",
+                "repo": "ShiftTolerant-LPIPS",
+                "stars": 44,
+                "topics": [
+                  "full-reference-image-quality-assessment",
+                  "full-reference-iqa",
+                  "image-quality-assessment",
+                  "iqa",
+                  "ml-robustness",
+                  "perceptual-similarity"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Locally Adaptive Structure and Texture Similarity for Image Quality Assessment",
+              "description": ", A-DISTS, FR. Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Locally Adaptive DISTS",
+                "homepage": null,
+                "id": 387637634,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-03-07T05:33:51Z",
+                "open_issues": 1,
+                "owner": "dingkeyan93",
+                "repo": "A-DISTS",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment",
+              "description": ", JSPL, FR. Github | semi-supervised and positive-unlabeled (PU) learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 473700157,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-03-24T17:06:34Z",
+                "open_issues": 8,
+                "owner": "happycaoyue",
+                "repo": "JSPL",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity",
+              "description": ", Zhou et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Demo code of ACMMM 2022 \"Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity\"",
+                "homepage": null,
+                "id": 512933159,
+                "language": "MATLAB",
+                "license": "MIT",
+                "last_commit": "2022-10-13T05:11:35Z",
+                "open_issues": 3,
+                "owner": "weizhou-geek",
+                "repo": "SRIF",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
+              "title": "JLD: Perceptual Distance Through A Jacobian Lens",
+              "description": ", Saini et al., FR. Frozen vision encoder with a Jacobian lens. Github | Project | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "JLD: Perceptual Distance through a Jacobian Lens. A label-free full-reference perceptual distance from a frozen vision encoder.",
+                "homepage": "https://shreshthsaini.github.io/jld/",
+                "id": 1391575839,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-07T07:24:38Z",
+                "open_issues": 0,
+                "owner": "shreshthsaini",
+                "repo": "jld",
+                "stars": 3,
+                "topics": [
+                  "computer-vision",
+                  "full-reference-iqa",
+                  "image-quality-assessment",
+                  "jacobian",
+                  "perceptual-similarity",
+                  "pytorch"
+                ]
+              },
+              "first_seen": "2026-10-08T23:34:37.202Z"
             }
           ],
           "description": null,
@@ -2169,7 +2446,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Image Intrinsoc Scale Assessment: Bridging the Gap Between Quality and Resolution",
+                  "title": "Image Intrinsic Scale Assessment: Bridging the Gap Between Quality and Resolution",
                   "description": ", Hosu et al. Bibtex | Github",
                   "children": [],
                   "repo_info": {
@@ -2377,8 +2654,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "lidq92/LinearityIQA",
-                  "description": "NiNLoss ACMM2020 Norm-in-Norm Loss",
+                  "title": "Norm-in-Norm Loss with Faster Convergence and Better Performance for Image Quality Assessment",
+                  "description": "Github | Norm-in-Norm Loss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2528,7 +2805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:57:49.744Z",
+    "last_updated": "2026-10-15T21:50:16.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2536,11 +2813,11 @@
       "id": 432720250,
       "language": "TeX",
       "license": "MIT",
-      "last_commit": "2026-10-08T01:56:22Z",
+      "last_commit": "2026-10-15T10:37:42Z",
       "open_issues": 12,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
-      "stars": 1545,
+      "stars": 1546,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2550,7 +2827,7 @@
         "iqa-dataset"
       ]
     },
-    "original_repository_sha": "a5f1b825cadc9ba3d5b8dab6d2356c0f899960d2",
+    "original_repository_sha": "803594f0d2e3de24cc640e5d545b352834d7f2c1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
     "enhanced_repository_description": null,
     "title": "Awesome Image Quality Assessment (IQA) with stars"
