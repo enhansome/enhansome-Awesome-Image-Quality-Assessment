@@ -827,7 +827,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1707,
+                "stars": 1708,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -1053,7 +1053,7 @@
                 "open_issues": 7,
                 "owner": "PKU-ICST-MIPL",
                 "repo": "Venus_CVPR2026",
-                "stars": 156,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1137,7 +1137,7 @@
                 "open_issues": 7,
                 "owner": "yzc-ippl",
                 "repo": "FG-IAA",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-10-15T21:50:16.413Z"
@@ -1207,7 +1207,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38930,
+                "stars": 38945,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1232,7 +1232,7 @@
                 "open_issues": 56,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3420,
+                "stars": 3421,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -2805,7 +2805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:01:59.539Z",
+    "last_updated": "2026-10-18T21:05:11.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2817,7 +2817,7 @@
       "open_issues": 12,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
-      "stars": 1546,
+      "stars": 1547,
       "topics": [
         "awesome",
         "awesome-list",
