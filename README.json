@@ -1207,7 +1207,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38945,
+                "stars": 38960,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1228,11 +1228,11 @@
                 "id": 432720685,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T07:41:20Z",
-                "open_issues": 56,
+                "last_commit": "2026-10-19T11:52:59Z",
+                "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3421,
+                "stars": 3422,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -2736,7 +2736,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-01-17T07:55:44Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "h4nwei",
                 "repo": "SPAQ",
                 "stars": 200,
@@ -2805,7 +2805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:05:11.134Z",
+    "last_updated": "2026-10-19T22:39:23.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
