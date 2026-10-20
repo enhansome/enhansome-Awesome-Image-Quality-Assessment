@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-21T17:35:19Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 463,
+            "stars": 464,
             "topics": [
               "awesome",
               "benchmark",
@@ -827,7 +827,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1708,
+                "stars": 1707,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -927,7 +927,7 @@
                 "open_issues": 13,
                 "owner": "Yushi-Hu",
                 "repo": "tifa",
-                "stars": 192,
+                "stars": 191,
                 "topics": [
                   "image-to-text",
                   "large-language-models",
@@ -1133,7 +1133,7 @@
                 "id": 1165288763,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-30T11:24:21Z",
+                "last_commit": "2026-10-20T08:42:04Z",
                 "open_issues": 7,
                 "owner": "yzc-ippl",
                 "repo": "FG-IAA",
@@ -1207,7 +1207,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38960,
+                "stars": 38986,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1232,7 +1232,7 @@
                 "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3422,
+                "stars": 3423,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1852,7 +1852,7 @@
                 "open_issues": 2,
                 "owner": "sxfly99",
                 "repo": "FGResQ",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "debluring",
                   "dehazing",
@@ -1904,7 +1904,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-06-26T07:04:03Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "nhshin-mcl",
                 "repo": "QCN",
                 "stars": 31,
@@ -2332,7 +2332,7 @@
                 "open_issues": 0,
                 "owner": "abhijay9",
                 "repo": "ShiftTolerant-LPIPS",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "full-reference-image-quality-assessment",
                   "full-reference-iqa",
@@ -2423,7 +2423,7 @@
                 "open_issues": 0,
                 "owner": "shreshthsaini",
                 "repo": "jld",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "computer-vision",
                   "full-reference-iqa",
@@ -2805,7 +2805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:39:23.138Z",
+    "last_updated": "2026-10-20T21:55:53.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
