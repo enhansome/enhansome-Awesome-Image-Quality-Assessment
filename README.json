@@ -127,6 +127,27 @@
             },
             {
               "node_type": "item",
+              "title": "Tool-IQA: Augmenting Image Quality Assessment with Simple Tools",
+              "description": ", Qin et al. Github (inference code and weights; training pending) | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1259051179,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-21T04:16:08Z",
+                "open_issues": 0,
+                "owner": "narthchin",
+                "repo": "Tool-IQA",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
               "title": "Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning",
               "description": ", Liang et al. Github | Bibtex",
               "children": [],
@@ -142,27 +163,6 @@
                 "owner": "EthanLiang99",
                 "repo": "Zoom-IQA",
                 "stars": 16,
-                "topics": []
-              },
-              "first_seen": "2026-10-15T21:50:16.413Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Tool-IQA: Augmenting Image Quality Assessment with Simple Tools",
-              "description": ", Qin et al. Github (inference code and weights; training pending) | Bibtex",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1259051179,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-06-17T06:15:24Z",
-                "open_issues": 0,
-                "owner": "narthchin",
-                "repo": "Tool-IQA",
-                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-15T21:50:16.413Z"
@@ -377,7 +377,7 @@
                 "id": 1108332866,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-07-13T06:42:04Z",
+                "last_commit": "2026-10-21T08:50:21Z",
                 "open_issues": 6,
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
@@ -689,7 +689,7 @@
                 "open_issues": 2,
                 "owner": "bytedance",
                 "repo": "EvoQuality",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-10-15T21:50:16.413Z"
@@ -1133,7 +1133,7 @@
                 "id": 1165288763,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-20T08:42:04Z",
+                "last_commit": "2026-10-21T02:09:51Z",
                 "open_issues": 7,
                 "owner": "yzc-ippl",
                 "repo": "FG-IAA",
@@ -1203,11 +1203,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2008,
+                "last_commit": "2026-10-21T07:52:25Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38986,
+                "stars": 39000,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1232,7 +1232,7 @@
                 "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3423,
+                "stars": 3428,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -2805,7 +2805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T21:55:53.381Z",
+    "last_updated": "2026-10-21T22:00:22.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
