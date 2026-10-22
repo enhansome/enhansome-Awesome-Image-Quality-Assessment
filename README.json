@@ -49,7 +49,7 @@
             "open_issues": 2,
             "owner": "bcmi",
             "repo": "Awesome-Aesthetic-Evaluation-and-Cropping",
-            "stars": 413,
+            "stars": 414,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:40.215Z"
@@ -120,7 +120,7 @@
                 "open_issues": 1,
                 "owner": "zibuyu-02",
                 "repo": "IQA-T1",
-                "stars": 245,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-10-15T21:50:16.413Z"
@@ -354,7 +354,7 @@
                 "open_issues": 20,
                 "owner": "Q-Future",
                 "repo": "Q-Align",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "aesthetic",
                   "aesthetic-assessment",
@@ -589,27 +589,6 @@
             },
             {
               "node_type": "item",
-              "title": "Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model",
-              "description": ", Li et al. Github | Bibtex",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model. ",
-                "homepage": null,
-                "id": 961763362,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-06-30T09:55:16Z",
-                "open_issues": 3,
-                "owner": "AMAP-ML",
-                "repo": "RealQA",
-                "stars": 87,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
               "title": "Towards Open-ended Visual Quality Comparison",
               "description": ", Wu et al. Github | Bibtex",
               "children": [],
@@ -827,7 +806,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1707,
+                "stars": 1706,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -853,7 +832,7 @@
                 "open_issues": 7,
                 "owner": "yuvalkirstain",
                 "repo": "PickScore",
-                "stars": 606,
+                "stars": 607,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1203,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T07:52:25Z",
+                "last_commit": "2026-10-22T17:29:10Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39000,
+                "stars": 39007,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1232,7 +1211,7 @@
                 "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3428,
+                "stars": 3430,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -2739,7 +2718,7 @@
                 "open_issues": 11,
                 "owner": "h4nwei",
                 "repo": "SPAQ",
-                "stars": 200,
+                "stars": 199,
                 "topics": [
                   "dataset",
                   "image-quality-assessment"
@@ -2784,7 +2763,7 @@
                 "open_issues": 1,
                 "owner": "imfing",
                 "repo": "ava_downloader",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "aesthetic-visual-analysis",
                   "ava",
@@ -2805,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:00:22.135Z",
+    "last_updated": "2026-10-22T21:56:24.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
