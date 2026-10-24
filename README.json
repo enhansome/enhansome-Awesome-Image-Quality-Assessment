@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-21T17:35:19Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "awesome",
               "benchmark",
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T00:52:55Z",
-                "open_issues": 2009,
+                "last_commit": "2026-10-23T21:57:07Z",
+                "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39014,
+                "stars": 39016,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2509,7 +2509,7 @@
                     "open_issues": 0,
                     "owner": "haoychen3",
                     "repo": "CD-Flow",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:40.215Z"
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:43:08.075Z",
+    "last_updated": "2026-10-24T21:13:36.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
