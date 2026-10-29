@@ -441,7 +441,7 @@
                 "open_issues": 10,
                 "owner": "bytedance",
                 "repo": "Q-Insight",
-                "stars": 325,
+                "stars": 326,
                 "topics": [
                   "research"
                 ]
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T13:44:13Z",
+                "last_commit": "2026-10-29T16:49:00Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39046,
+                "stars": 39059,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1211,7 +1211,7 @@
                 "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3438,
+                "stars": 3439,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1520,7 +1520,7 @@
                 "open_issues": 1,
                 "owner": "miccunifi",
                 "repo": "ARNIQA",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "biqa",
                   "blind-image-quality-assessment",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:53:14.542Z",
+    "last_updated": "2026-10-29T23:00:21.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
