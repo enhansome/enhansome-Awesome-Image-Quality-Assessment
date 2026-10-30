@@ -204,7 +204,7 @@
                 "open_issues": 0,
                 "owner": "wangyuji1",
                 "repo": "RLScanIQA",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "360-images",
                   "computer-vision",
@@ -381,7 +381,7 @@
                 "open_issues": 6,
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
-                "stars": 173,
+                "stars": 174,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -806,7 +806,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1706,
+                "stars": 1707,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -1137,7 +1137,7 @@
                 "open_issues": 2,
                 "owner": "Henglin-Liu",
                 "repo": "ArtQuant",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T16:49:00Z",
+                "last_commit": "2026-10-30T17:33:25Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39059,
+                "stars": 39064,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1211,7 +1211,7 @@
                 "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3439,
+                "stars": 3438,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1590,7 +1590,7 @@
                 "open_issues": 2,
                 "owner": "miccunifi",
                 "repo": "QualiCLIP",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "biqa",
                   "blind-image-quality-assessment",
@@ -1796,6 +1796,40 @@
             },
             {
               "node_type": "item",
+              "title": "Fine-grained Image Quality Assessment for Perceptual Image Restoration",
+              "description": ", Sheng et al. Bibtex | HomePage | Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🔥🔥🔥[AAAI 2026] Official code release of our paper \"Fine-grained Image Quality Assessment for Perceptual Image Restoration\". 首个面向图像恢复的细粒度IQA数据集FGRestore+方法FGResQ",
+                "homepage": "https://sxfly99.github.io/FGResQ-Home/",
+                "id": 1039922298,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-03T09:12:28Z",
+                "open_issues": 2,
+                "owner": "sxfly99",
+                "repo": "FGResQ",
+                "stars": 45,
+                "topics": [
+                  "debluring",
+                  "dehazing",
+                  "denoising",
+                  "deraining",
+                  "fine-grained",
+                  "image-processing",
+                  "image-quality-assessment",
+                  "image-restoration",
+                  "image-super-resolution",
+                  "low-level-vision",
+                  "restoration",
+                  "super-resolution"
+                ]
+              },
+              "first_seen": "2026-08-29T01:55:40.215Z"
+            },
+            {
+              "node_type": "item",
               "title": "GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment",
               "description": ", Sun et al. Github | Bibtex",
               "children": [],
@@ -1812,40 +1846,6 @@
                 "repo": "GraphIQA",
                 "stars": 45,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Fine-grained Image Quality Assessment for Perceptual Image Restoration",
-              "description": ", Sheng et al. Bibtex | HomePage | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🔥🔥🔥[AAAI 2026] Official code release of our paper \"Fine-grained Image Quality Assessment for Perceptual Image Restoration\". 首个面向图像恢复的细粒度IQA数据集FGRestore+方法FGResQ",
-                "homepage": "https://sxfly99.github.io/FGResQ-Home/",
-                "id": 1039922298,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-03T09:12:28Z",
-                "open_issues": 2,
-                "owner": "sxfly99",
-                "repo": "FGResQ",
-                "stars": 44,
-                "topics": [
-                  "debluring",
-                  "dehazing",
-                  "denoising",
-                  "deraining",
-                  "fine-grained",
-                  "image-processing",
-                  "image-quality-assessment",
-                  "image-restoration",
-                  "image-super-resolution",
-                  "low-level-vision",
-                  "restoration",
-                  "super-resolution"
-                ]
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
             },
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:00:21.856Z",
+    "last_updated": "2026-10-30T22:40:42.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2792,7 +2792,7 @@
       "id": 432720250,
       "language": "TeX",
       "license": "MIT",
-      "last_commit": "2026-10-28T09:40:14Z",
+      "last_commit": "2026-10-30T09:01:21Z",
       "open_issues": 8,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
@@ -2806,7 +2806,7 @@
         "iqa-dataset"
       ]
     },
-    "original_repository_sha": "f0d1fb6c1201fbfdde7b9896a520e195908afe93",
+    "original_repository_sha": "4c3df247a5ee7dee41e7eea90c8b3b2c69a5f8a7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Quality-Assessment",
     "enhanced_repository_description": null,
     "title": "Awesome Image Quality Assessment (IQA) with stars"
