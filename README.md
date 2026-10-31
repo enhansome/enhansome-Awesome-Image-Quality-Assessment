@@ -1,8 +1,8 @@
 # Awesome Image Quality Assessment (IQA) with stars
 
-A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,438 | 🐛 54 | 🌐 Python | 📅 2026-10-19
+A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,437 | 🐛 54 | 🌐 Python | 📅 2026-10-19
 
-[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,438 | 🐛 54 | 🌐 Python | 📅 2026-10-19 [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment)
+[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,437 | 🐛 54 | 🌐 Python | 📅 2026-10-19 [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment)
 
 > \[!TIP]\
 > 📚✍️ Feel free to submit a pull request to add a paper you think deserves to be featured in this repository! Your contributions are incredibly appreciated 🙌 and will help make this project even better for everyone!\
@@ -78,7 +78,7 @@ Related Resources:
 * `[CVPR 2024]` [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://arxiv.org/abs/2311.06783), Wu et al. [Github](https://github.com/Q-Future/Q-Instruct) ⭐ 237 | 🐛 11 | 🌐 Python | 📅 2024-08-12 | [Bibtex](./iqa_ref.bib#L878-L884)
 * `[ECCV 2024]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Github](https://github.com/XPixelGroup/DepictQA) ⭐ 230 | 🐛 19 | 🌐 Python | 📅 2026-05-21 | [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L886-L894)
 * `[TIP 2025]` [Enhancing Descriptive Image Quality Assessment with A Large-scale Multi-modal Dataset](https://arxiv.org/abs/2405.18842), You et al. [Github](https://github.com/XPixelGroup/DepictQA) ⭐ 230 | 🐛 19 | 🌐 Python | 📅 2026-05-21 | [Project](https://depictqa.github.io/depictqa-wild/) | [Bibtex](./iqa_ref.bib#L896-L906)
-* ✨`[NeurIPS 2025 (Spotlight)]` [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460), Wu et al. [Github](https://github.com/TianheWu/VisualQuality-R1) ⭐ 202 | 🐛 9 | 🌐 Python | 📅 2025-10-15 | [Bibtex](./iqa_ref.bib#L1285-L1290)
+* ✨`[NeurIPS 2025 (Spotlight)]` [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460), Wu et al. [Github](https://github.com/TianheWu/VisualQuality-R1) ⭐ 203 | 🐛 9 | 🌐 Python | 📅 2025-10-15 | [Bibtex](./iqa_ref.bib#L1285-L1290)
 * `[ECCV 2024]` [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](https://arxiv.org/abs/2403.10854), Wu et al. [Github](https://github.com/TianheWu/MLLMs-for-IQA) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2024-07-20 | [Bibtex](./iqa_ref.bib#L939-L946)
 * `[ECCV 2024]` [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641), Wu et al. [Github](https://github.com/Q-Future/Co-Instruct) ⭐ 87 | 🐛 3 | 📅 2024-09-29 | [Bibtex](./iqa_ref.bib#L922-L929)
 * `[Arxiv 2026]` [Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment](https://arxiv.org/abs/2601.22920), Xie et al. [Github (training code; inference pending)](https://github.com/aba122/Q-Hawkeye) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2026-02-09 | [Bibtex](./iqa_ref.bib#L1199-L1204)
@@ -124,8 +124,8 @@ Related Resources:
 
 ### No Reference (NR)
 
-* `[ICCV 2021]` [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/abs/2108.05997), NR. [Github](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 39,064 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30 / [Github](https://github.com/anse3832/MUSIQ) ⭐ 153 | 🐛 11 | 🌐 Python | 📅 2021-10-22 | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
-* `[TIP 2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,438 | 🐛 54 | 🌐 Python | 📅 2026-10-19 | [Bibtex](./iqa_ref.bib#L908-L913)
+* `[ICCV 2021]` [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/abs/2108.05997), NR. [Github](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 39,074 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30 / [Github](https://github.com/anse3832/MUSIQ) ⭐ 154 | 🐛 11 | 🌐 Python | 📅 2021-10-22 | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
+* `[TIP 2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,437 | 🐛 54 | 🌐 Python | 📅 2026-10-19 | [Bibtex](./iqa_ref.bib#L908-L913)
 * `[TIP 2018]` [NIMA: Neural Image Assessment](https://ieeexplore.ieee.org/ielx7/83/8347140/08352823.pdf), NR. [Github](https://github.com/kentsyx/Neural-IMage-Assessment) ⭐ 588 | 🐛 24 | 🌐 Python | 📅 2021-11-10/[Github](https://github.com/idealo/image-quality-assessment) ⚠️ Archived | Squared EMD loss
 * `[AAAI2023]` [Exploring CLIP for Assessing the Look and Feel of Images](https://arxiv.org/abs/2207.12396), Wang et al. [Github](https://github.com/IceClear/CLIP-IQA) ⭐ 503 | 🐛 24 | 🌐 Python | 📅 2023-10-27 | [Bibtex](./iqa_ref.bib#L746-L751)
 * `[ICCV 2017]` [RankIQA: Learning from Rankings for No-reference Image Quality Assessment](https://arxiv.org/abs/1707.08347), NR. [Github](https://github.com/xialeiliu/RankIQA) ⭐ 451 | 🐛 16 | 🌐 MATLAB | 📅 2019-02-19 | Pretrain on synthetically ranked data
@@ -153,8 +153,8 @@ Related Resources:
 * `[AAAI 2023]` [Data-Efficient Image Quality Assessment with Attention-Panel Decoder](https://arxiv.org/abs/2304.04952), Qin et al. [Github](https://github.com/narthchin/DEIQT) ⭐ 39 | 🐛 7 | 🌐 Python | 📅 2024-04-03 | [Bibtex](./iqa_ref.bib#L792-L797)
 * `[CVPR 2024]` [Blind Image Quality Assessment Based On Geometric Order Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Shin_Blind_Image_Quality_Assessment_Based_on_Geometric_Order_Learning_CVPR_2024_paper.pdf), Shin et al. [Github](https://github.com/nhshin-mcl/QCN?tab=readme-ov-file) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2024-06-26 | [Bibtex](./iqa_ref.bib#L1105-L1110)
 * `[TIP2022]` [VCRNet: Visual Compensation Restoration Network for No-Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9694502), Pan et al. [Github](https://github.com/NUIST-Videocoding/VCRNet) ⭐ 26 | 🐛 6 | 🌐 Python | 📅 2023-04-12 | [Bibtex](./iqa_ref.bib#L753-L762)
+* `[CVPR 2024]` [Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement](https://arxiv.org/abs/2308.12001), Xu et al. [Github](https://github.com/NeosXu/LoDa) ⭐ 25 | 🐛 3 | 🌐 Python | 📅 2024-06-19 | [Bibtex](./iqa_ref.bib#L931-L937)
 * `[SPL 2012]` [Making a “Completely Blind” Image Quality Analyzer](https://live.ece.utexas.edu/publications/2013/mittal2013.pdf), NIQE, NR. [Github](https://github.com/utlive/niqe) ⭐ 25 | 🐛 1 | 🌐 MATLAB | 📅 2021-10-26 | Traditional
-* `[CVPR 2024]` [Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement](https://arxiv.org/abs/2308.12001), Xu et al. [Github](https://github.com/NeosXu/LoDa) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2024-06-19 | [Bibtex](./iqa_ref.bib#L931-L937)
 * `[BMVC 2021]` [KonIQ++: Boosting No-Reference Image Quality Assessment in the Wild by Jointly Predicting Image Quality and Defects](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf), NR. [Github](https://github.com/SSL92/koniqplusplus) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2024-11-29 | Multi-task with distortion prediction
 * `[TIP 2019]` [A Probabilistic Quality Representation Approach to Deep Blind Image Quality Prediction](https://drive.google.com/file/d/1tMjcllKP8SzTn-dWVmogxaCLpzL1L7nO/view), PQR, NR/Aesthetic. [Github](https://github.com/HuiZeng/Unified_IAA) ⭐ 17 | 🐛 2 | 🌐 MATLAB | 📅 2019-09-18/[Github](https://github.com/HuiZeng/BIQA_Toolbox) ⭐ 117 | 🐛 2 | 🌐 MATLAB | 📅 2019-04-08 | Unify different type of aesthetic labels
 * `[JoV 2017]` [Perceptual Quality Prediction on Authentically Distorted Images Using a Bag of Features Approach](https://arxiv.org/abs/1609.04757), FRIQUEE, NR. [Github](https://github.com/utlive/FRIQUEE) ⭐ 17 | 🐛 1 | 🌐 MATLAB | 📅 2021-01-17 | Authentically Distorted, Bag of Features
@@ -279,4 +279,4 @@ Related Resources:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

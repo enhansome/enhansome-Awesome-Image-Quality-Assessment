@@ -561,7 +561,7 @@
                 "open_issues": 9,
                 "owner": "TianheWu",
                 "repo": "VisualQuality-R1",
-                "stars": 202,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:33:25Z",
+                "last_commit": "2026-10-30T23:22:33Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39064,
+                "stars": 39074,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1211,7 +1211,7 @@
                 "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3438,
+                "stars": 3437,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1914,6 +1914,27 @@
             },
             {
               "node_type": "item",
+              "title": "Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement",
+              "description": ", Xu et al. Github | Bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 773568709,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-06-19T08:43:15Z",
+                "open_issues": 3,
+                "owner": "NeosXu",
+                "repo": "LoDa",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T21:50:16.413Z"
+            },
+            {
+              "node_type": "item",
               "title": "Making a “Completely Blind” Image Quality Analyzer",
               "description": ", NIQE, NR. Github | Traditional",
               "children": [],
@@ -1932,27 +1953,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement",
-              "description": ", Xu et al. Github | Bibtex",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 773568709,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-06-19T08:43:15Z",
-                "open_issues": 3,
-                "owner": "NeosXu",
-                "repo": "LoDa",
-                "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-10-15T21:50:16.413Z"
             },
             {
               "node_type": "item",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:40:42.479Z",
+    "last_updated": "2026-10-31T21:55:29.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
