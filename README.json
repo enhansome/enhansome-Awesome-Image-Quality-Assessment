@@ -67,7 +67,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-10T16:16:47Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "weizhou-geek",
             "repo": "Image-Quality-Assessment-Benchmark",
             "stars": 363,
@@ -806,7 +806,7 @@
                 "open_issues": 61,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1707,
+                "stars": 1708,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -1186,7 +1186,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39074,
+                "stars": 39085,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1208,10 +1208,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-19T11:52:59Z",
-                "open_issues": 54,
+                "open_issues": 57,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3437,
+                "stars": 3438,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:55:29.278Z",
+    "last_updated": "2026-11-01T22:27:50.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
