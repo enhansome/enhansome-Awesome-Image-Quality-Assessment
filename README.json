@@ -1116,7 +1116,7 @@
                 "open_issues": 7,
                 "owner": "yzc-ippl",
                 "repo": "FG-IAA",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-10-15T21:50:16.413Z"
@@ -1186,7 +1186,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39085,
+                "stars": 39098,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1207,8 +1207,8 @@
                 "id": 432720685,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T11:52:59Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-02T07:53:58Z",
+                "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
                 "stars": 3438,
@@ -2189,7 +2189,7 @@
                 "open_issues": 12,
                 "owner": "dingkeyan93",
                 "repo": "DISTS",
-                "stars": 491,
+                "stars": 492,
                 "topics": [
                   "dists",
                   "image-quality-assessment",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:27:50.784Z",
+    "last_updated": "2026-11-03T01:19:36.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2796,7 +2796,7 @@
       "open_issues": 8,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
-      "stars": 1550,
+      "stars": 1551,
       "topics": [
         "awesome",
         "awesome-list",
