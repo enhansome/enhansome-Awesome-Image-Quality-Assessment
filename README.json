@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "awesome",
               "benchmark",
@@ -120,7 +120,7 @@
                 "open_issues": 1,
                 "owner": "zibuyu-02",
                 "repo": "IQA-T1",
-                "stars": 242,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-10-15T21:50:16.413Z"
@@ -381,7 +381,7 @@
                 "open_issues": 6,
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -441,7 +441,7 @@
                 "open_issues": 10,
                 "owner": "bytedance",
                 "repo": "Q-Insight",
-                "stars": 327,
+                "stars": 328,
                 "topics": [
                   "research"
                 ]
@@ -668,7 +668,7 @@
                 "open_issues": 2,
                 "owner": "bytedance",
                 "repo": "EvoQuality",
-                "stars": 25,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-10-15T21:50:16.413Z"
@@ -1007,7 +1007,7 @@
                 "open_issues": 9,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T16:49:43Z",
-                "open_issues": 2010,
+                "last_commit": "2026-11-05T17:57:19Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39112,
+                "stars": 39118,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1207,11 +1207,11 @@
                 "id": 432720685,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T01:21:25Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-05T14:06:55Z",
+                "open_issues": 54,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3441,
+                "stars": 3442,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:57:12.942Z",
+    "last_updated": "2026-11-05T23:51:35.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
