@@ -1,8 +1,8 @@
 # Awesome Image Quality Assessment (IQA) with stars
 
-A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,442 | 🐛 54 | 🌐 Python | 📅 2026-11-05
+A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,445 | 🐛 56 | 🌐 Python | 📅 2026-11-05
 
-[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,442 | 🐛 54 | 🌐 Python | 📅 2026-11-05 [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment)
+[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,445 | 🐛 56 | 🌐 Python | 📅 2026-11-05 [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment)
 
 > \[!TIP]\
 > 📚✍️ Feel free to submit a pull request to add a paper you think deserves to be featured in this repository! Your contributions are incredibly appreciated 🙌 and will help make this project even better for everyone!\
@@ -25,7 +25,7 @@ A comprehensive collection of IQA papers, datasets and codes. We also provide Py
 
 Related Resources:
 
-* [Awesome Evaluation of Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation) ⭐ 466 | 🐛 8 | 📅 2026-08-21. A curated list of resources for evaluation of visual generation.
+* [Awesome Evaluation of Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation) ⭐ 466 | 🐛 9 | 📅 2026-08-21. A curated list of resources for evaluation of visual generation.
 * [Awesome Image Aesthetic Assessment and Cropping](https://github.com/bcmi/Awesome-Aesthetic-Evaluation-and-Cropping) ⭐ 414 | 🐛 2 | 📅 2024-07-11. A curated list of resources including papers, datasets, and relevant links to aesthetic evaluation and cropping.
 * [Image Quality Assessment Benchmark](https://github.com/weizhou-geek/Image-Quality-Assessment-Benchmark) ⭐ 363 | 🐛 7 | 📅 2024-07-10. Benchmark datasets and evaluation code for IQA.
 * [Recent Image Quality Related Papers](https://github.com/weizhou-geek/Recent-Image-Quality-Related-Papers) ⭐ 123 | 🐛 0 | 📅 2024-02-19. A collection of recent papers related to image quality.
@@ -96,7 +96,7 @@ Related Resources:
 ### AIGC IQA
 
 * `[NeurIPS 2023]` [ImageReward: Learning and Evaluating Human Preferences for Text-to-image Generation](https://arxiv.org/abs/2304.05977), Xu et al. [Github](https://github.com/THUDM/ImageReward) ⭐ 1,711 | 🐛 61 | 🌐 Python | 📅 2025-10-29 | [Bibtex](./iqa_ref.bib#L819-L824)
-* `[NeurIPS 2023]` [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/abs/2305.01569), Yuval et al. [Github](https://github.com/yuvalkirstain/PickScore) ⭐ 606 | 🐛 7 | 🌐 Python | 📅 2024-12-21 | [Bibtex](./iqa_ref.bib#L813-L817)
+* `[NeurIPS 2023]` [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/abs/2305.01569), Yuval et al. [Github](https://github.com/yuvalkirstain/PickScore) ⭐ 606 | 🐛 6 | 🌐 Python | 📅 2024-12-21 | [Bibtex](./iqa_ref.bib#L813-L817)
 * `[ICCV 2023]` [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420), Wu et al. [Github](https://github.com/tgxs002/align_sd) ⭐ 291 | 🐛 14 | 🌐 Python | 📅 2023-07-14 | [Github(HPSv2)](https://github.com/tgxs002/HPSv2) ⭐ 680 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2024-05-24 | [Bibtex](./iqa_ref.bib#L806-L811)
 * `[ICLR 2024 (Spotlight)]` [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision](https://arxiv.org/abs/2309.14181), Wu et al. [Github](https://github.com/Q-Future/Q-Bench) ⭐ 285 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-12 | [Bibtex](./iqa_ref.bib#L837-L844)
 * `[ICCV 2023]` [TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897), Hu et al. [Github](https://github.com/Yushi-Hu/tifa) ⭐ 191 | 🐛 13 | 🌐 Python | 📅 2024-04-29 | [Bibtex](./iqa_ref.bib#L846-L851) | [Project](https://tifa-benchmark.github.io/)
@@ -125,9 +125,9 @@ Related Resources:
 
 ### No Reference (NR)
 
-* `[ICCV 2021]` [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/abs/2108.05997), NR. [Github](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 39,118 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-05 / [Github](https://github.com/anse3832/MUSIQ) ⭐ 154 | 🐛 11 | 🌐 Python | 📅 2021-10-22 | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
-* `[TIP 2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,442 | 🐛 54 | 🌐 Python | 📅 2026-11-05 | [Bibtex](./iqa_ref.bib#L908-L913)
-* `[TIP 2018]` [NIMA: Neural Image Assessment](https://ieeexplore.ieee.org/ielx7/83/8347140/08352823.pdf), NR. [Github](https://github.com/kentsyx/Neural-IMage-Assessment) ⭐ 588 | 🐛 24 | 🌐 Python | 📅 2021-11-10/[Github](https://github.com/idealo/image-quality-assessment) ⚠️ Archived | Squared EMD loss
+* `[ICCV 2021]` [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/abs/2108.05997), NR. [Github](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 39,122 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06 / [Github](https://github.com/anse3832/MUSIQ) ⭐ 154 | 🐛 11 | 🌐 Python | 📅 2021-10-22 | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
+* `[TIP 2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,445 | 🐛 56 | 🌐 Python | 📅 2026-11-05 | [Bibtex](./iqa_ref.bib#L908-L913)
+* `[TIP 2018]` [NIMA: Neural Image Assessment](https://ieeexplore.ieee.org/ielx7/83/8347140/08352823.pdf), NR. [Github](https://github.com/kentsyx/Neural-IMage-Assessment) ⭐ 589 | 🐛 24 | 🌐 Python | 📅 2021-11-10/[Github](https://github.com/idealo/image-quality-assessment) ⚠️ Archived | Squared EMD loss
 * `[AAAI2023]` [Exploring CLIP for Assessing the Look and Feel of Images](https://arxiv.org/abs/2207.12396), Wang et al. [Github](https://github.com/IceClear/CLIP-IQA) ⭐ 504 | 🐛 24 | 🌐 Python | 📅 2023-10-27 | [Bibtex](./iqa_ref.bib#L746-L751)
 * `[ICCV 2017]` [RankIQA: Learning from Rankings for No-reference Image Quality Assessment](https://arxiv.org/abs/1707.08347), NR. [Github](https://github.com/xialeiliu/RankIQA) ⭐ 451 | 🐛 16 | 🌐 MATLAB | 📅 2019-02-19 | Pretrain on synthetically ranked data
 * `[CVPR 2020]` [Blindly Assess Image Quality in the Wild Guided by a Self-Adaptive Hyper Network](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf), HyperIQA, NR. [Github](https://github.com/SSL92/hyperIQA) ⭐ 437 | 🐛 36 | 🌐 Python | 📅 2023-12-14 | Content-aware hyper network
@@ -280,4 +280,4 @@ Related Resources:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
