@@ -1,8 +1,8 @@
 # Awesome Image Quality Assessment (IQA) with stars
 
-A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,445 | 🐛 56 | 🌐 Python | 📅 2026-11-05
+A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,446 | 🐛 57 | 🌐 Python | 📅 2026-11-05
 
-[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,445 | 🐛 56 | 🌐 Python | 📅 2026-11-05 [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment)
+[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,446 | 🐛 57 | 🌐 Python | 📅 2026-11-05 [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment)
 
 > \[!TIP]\
 > 📚✍️ Feel free to submit a pull request to add a paper you think deserves to be featured in this repository! Your contributions are incredibly appreciated 🙌 and will help make this project even better for everyone!\
@@ -125,8 +125,8 @@ Related Resources:
 
 ### No Reference (NR)
 
-* `[ICCV 2021]` [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/abs/2108.05997), NR. [Github](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 39,122 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06 / [Github](https://github.com/anse3832/MUSIQ) ⭐ 154 | 🐛 11 | 🌐 Python | 📅 2021-10-22 | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
-* `[TIP 2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,445 | 🐛 56 | 🌐 Python | 📅 2026-11-05 | [Bibtex](./iqa_ref.bib#L908-L913)
+* `[ICCV 2021]` [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/abs/2108.05997), NR. [Github](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 39,127 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06 / [Github](https://github.com/anse3832/MUSIQ) ⭐ 154 | 🐛 11 | 🌐 Python | 📅 2021-10-22 | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
+* `[TIP 2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) ⭐ 3,446 | 🐛 57 | 🌐 Python | 📅 2026-11-05 | [Bibtex](./iqa_ref.bib#L908-L913)
 * `[TIP 2018]` [NIMA: Neural Image Assessment](https://ieeexplore.ieee.org/ielx7/83/8347140/08352823.pdf), NR. [Github](https://github.com/kentsyx/Neural-IMage-Assessment) ⭐ 589 | 🐛 24 | 🌐 Python | 📅 2021-11-10/[Github](https://github.com/idealo/image-quality-assessment) ⚠️ Archived | Squared EMD loss
 * `[AAAI2023]` [Exploring CLIP for Assessing the Look and Feel of Images](https://arxiv.org/abs/2207.12396), Wang et al. [Github](https://github.com/IceClear/CLIP-IQA) ⭐ 504 | 🐛 24 | 🌐 Python | 📅 2023-10-27 | [Bibtex](./iqa_ref.bib#L746-L751)
 * `[ICCV 2017]` [RankIQA: Learning from Rankings for No-reference Image Quality Assessment](https://arxiv.org/abs/1707.08347), NR. [Github](https://github.com/xialeiliu/RankIQA) ⭐ 451 | 🐛 16 | 🌐 MATLAB | 📅 2019-02-19 | Pretrain on synthetically ranked data
@@ -280,4 +280,4 @@ Related Resources:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
