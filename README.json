@@ -441,7 +441,7 @@
                 "open_issues": 10,
                 "owner": "bytedance",
                 "repo": "Q-Insight",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "research"
                 ]
@@ -1186,7 +1186,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39147,
+                "stars": 39151,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1208,10 +1208,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T15:25:40Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3446,
+                "stars": 3448,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -2763,7 +2763,7 @@
                 "open_issues": 1,
                 "owner": "imfing",
                 "repo": "ava_downloader",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "aesthetic-visual-analysis",
                   "ava",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:46:35.389Z",
+    "last_updated": "2026-11-10T23:45:39.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2796,7 +2796,7 @@
       "open_issues": 8,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
-      "stars": 1551,
+      "stars": 1552,
       "topics": [
         "awesome",
         "awesome-list",
