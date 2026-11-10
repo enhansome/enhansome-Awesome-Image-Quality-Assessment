@@ -354,7 +354,7 @@
                 "open_issues": 20,
                 "owner": "Q-Future",
                 "repo": "Q-Align",
-                "stars": 632,
+                "stars": 634,
                 "topics": [
                   "aesthetic",
                   "aesthetic-assessment",
@@ -582,7 +582,7 @@
                 "open_issues": 1,
                 "owner": "TianheWu",
                 "repo": "MLLMs-for-IQA",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -647,7 +647,7 @@
                 "open_issues": 1,
                 "owner": "xuanyuzhang21",
                 "repo": "RALI",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1007,7 +1007,7 @@
                 "open_issues": 9,
                 "owner": "thunderbolt215",
                 "repo": "ArtiMuse",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "dataset",
                   "image-aesthetics-assessment",
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:41:04Z",
+                "last_commit": "2026-11-09T18:10:16Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39139,
+                "stars": 39147,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1207,8 +1207,8 @@
                 "id": 432720685,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T14:06:55Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-09T15:25:40Z",
+                "open_issues": 56,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
                 "stars": 3446,
@@ -2339,7 +2339,7 @@
                 "open_issues": 1,
                 "owner": "dingkeyan93",
                 "repo": "A-DISTS",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:31:23.477Z",
+    "last_updated": "2026-11-10T01:46:35.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
