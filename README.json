@@ -803,7 +803,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-29T13:40:51Z",
-                "open_issues": 61,
+                "open_issues": 60,
                 "owner": "zai-org",
                 "repo": "ImageReward",
                 "stars": 1711,
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T18:10:16Z",
+                "last_commit": "2026-11-11T11:58:31Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39151,
+                "stars": 39158,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1293,7 +1293,7 @@
                 "open_issues": 16,
                 "owner": "xialeiliu",
                 "repo": "RankIQA",
-                "stars": 451,
+                "stars": 450,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -2742,7 +2742,7 @@
                 "open_issues": 22,
                 "owner": "aimerykong",
                 "repo": "deepImageAestheticsAnalysis",
-                "stars": 322,
+                "stars": 321,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -2763,7 +2763,7 @@
                 "open_issues": 1,
                 "owner": "imfing",
                 "repo": "ava_downloader",
-                "stars": 454,
+                "stars": 453,
                 "topics": [
                   "aesthetic-visual-analysis",
                   "ava",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:45:39.384Z",
+    "last_updated": "2026-11-12T01:03:15.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
