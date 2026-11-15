@@ -354,7 +354,7 @@
                 "open_issues": 20,
                 "owner": "Q-Future",
                 "repo": "Q-Align",
-                "stars": 635,
+                "stars": 636,
                 "topics": [
                   "aesthetic",
                   "aesthetic-assessment",
@@ -1032,7 +1032,7 @@
                 "open_issues": 7,
                 "owner": "PKU-ICST-MIPL",
                 "repo": "Venus_CVPR2026",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1186,7 +1186,7 @@
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39177,
+                "stars": 39183,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1211,7 +1211,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3450,
+                "stars": 3452,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1810,7 +1810,7 @@
                 "open_issues": 2,
                 "owner": "sxfly99",
                 "repo": "FGResQ",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "debluring",
                   "dehazing",
@@ -2742,7 +2742,7 @@
                 "open_issues": 22,
                 "owner": "aimerykong",
                 "repo": "deepImageAestheticsAnalysis",
-                "stars": 321,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:46:10.490Z",
+    "last_updated": "2026-11-15T23:12:10.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
@@ -2796,7 +2796,7 @@
       "open_issues": 8,
       "owner": "chaofengc",
       "repo": "Awesome-Image-Quality-Assessment",
-      "stars": 1553,
+      "stars": 1554,
       "topics": [
         "awesome",
         "awesome-list",
