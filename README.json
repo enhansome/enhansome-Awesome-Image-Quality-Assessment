@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "awesome",
               "benchmark",
@@ -354,7 +354,7 @@
                 "open_issues": 20,
                 "owner": "Q-Future",
                 "repo": "Q-Align",
-                "stars": 637,
+                "stars": 636,
                 "topics": [
                   "aesthetic",
                   "aesthetic-assessment",
@@ -381,7 +381,7 @@
                 "open_issues": 6,
                 "owner": "thunderbolt215",
                 "repo": "UniPercept",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -441,7 +441,7 @@
                 "open_issues": 10,
                 "owner": "bytedance",
                 "repo": "Q-Insight",
-                "stars": 330,
+                "stars": 331,
                 "topics": [
                   "research"
                 ]
@@ -806,7 +806,7 @@
                 "open_issues": 60,
                 "owner": "zai-org",
                 "repo": "ImageReward",
-                "stars": 1712,
+                "stars": 1710,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -1053,7 +1053,7 @@
                 "open_issues": 4,
                 "owner": "yipoh",
                 "repo": "AesExpert",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T22:14:55Z",
+                "last_commit": "2026-11-19T15:52:19Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39223,
+                "stars": 39233,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1211,7 +1211,7 @@
                 "open_issues": 55,
                 "owner": "chaofengc",
                 "repo": "IQA-PyTorch",
-                "stars": 3453,
+                "stars": 3452,
                 "topics": [
                   "blind-image-quality-assessment",
                   "image-aesthetic-assessment",
@@ -1269,7 +1269,7 @@
                 "open_issues": 24,
                 "owner": "IceClear",
                 "repo": "CLIP-IQA",
-                "stars": 505,
+                "stars": 503,
                 "topics": [
                   "clip",
                   "iqa"
@@ -1314,7 +1314,7 @@
                 "open_issues": 36,
                 "owner": "SSL92",
                 "repo": "hyperIQA",
-                "stars": 438,
+                "stars": 437,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -2742,7 +2742,7 @@
                 "open_issues": 22,
                 "owner": "aimerykong",
                 "repo": "deepImageAestheticsAnalysis",
-                "stars": 322,
+                "stars": 321,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -2763,7 +2763,7 @@
                 "open_issues": 1,
                 "owner": "imfing",
                 "repo": "ava_downloader",
-                "stars": 453,
+                "stars": 452,
                 "topics": [
                   "aesthetic-visual-analysis",
                   "ava",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:46:00.382Z",
+    "last_updated": "2026-11-20T00:56:41.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
