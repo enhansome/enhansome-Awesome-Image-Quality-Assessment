@@ -138,7 +138,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-14T06:38:44Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "EthanLiang99",
                 "repo": "Zoom-IQA",
                 "stars": 18,
@@ -284,7 +284,7 @@
                 "open_issues": 4,
                 "owner": "Q-Future",
                 "repo": "Q-Ground",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.215Z"
@@ -441,7 +441,7 @@
                 "open_issues": 10,
                 "owner": "bytedance",
                 "repo": "Q-Insight",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "research"
                 ]
@@ -1116,7 +1116,7 @@
                 "open_issues": 8,
                 "owner": "yzc-ippl",
                 "repo": "FG-IAA",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-10-15T21:50:16.413Z"
@@ -1182,11 +1182,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T15:52:19Z",
+                "last_commit": "2026-11-20T22:58:37Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39233,
+                "stars": 39245,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:56:41.409Z",
+    "last_updated": "2026-11-21T00:19:19.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
