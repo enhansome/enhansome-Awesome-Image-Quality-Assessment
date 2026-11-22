@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "ziqihuangg",
             "repo": "Awesome-Evaluation-of-Visual-Generation",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "awesome",
               "benchmark",
@@ -1183,10 +1183,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T15:37:23Z",
-                "open_issues": 2013,
+                "open_issues": 2014,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39251,
+                "stars": 39261,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2784,7 +2784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:36:27.391Z",
+    "last_updated": "2026-11-22T23:53:18.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of IQA papers",
